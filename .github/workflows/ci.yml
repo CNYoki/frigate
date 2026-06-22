@@ -10,6 +10,10 @@ on:
     paths-ignore:
       - "docs/**"
 
+permissions:
+  contents: read
+  packages: write
+
 # only run the latest commit to avoid cache overwrites
 concurrency:
   group: ${{ github.ref }}
