@@ -48,7 +48,7 @@ def _get_redirect_uri(request: Request, oidc_config) -> str:
         or request.headers.get("host")
         or request.url.netloc
     )
-    return f"{proto}://{host}/auth/oidc/callback"
+    return f"{proto}://{host}/api/auth/oidc/callback"
 
 
 def _decode_jwt_payload(token: str) -> dict:

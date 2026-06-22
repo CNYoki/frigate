@@ -162,7 +162,7 @@ export function UserAuthForm({ className, ...props }: UserAuthFormProps) {
           className="w-full"
           aria-label={t("form.ssoLogin")}
           onClick={() => {
-            window.location.href = "/login/oidc";
+            window.location.href = "/api/login/oidc";
           }}
         >
           {t("form.ssoLogin")}
