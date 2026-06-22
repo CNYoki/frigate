@@ -1,18 +1,18 @@
-{
+﻿{
   "documentTitle": {
-    "default": "設定 - Frigate",
-    "authentication": "認證設定 - Frigate",
-    "camera": "鏡頭設定 - Frigate",
-    "classification": "進階功能設定 - Frigate",
-    "masksAndZones": "遮罩與區域編輯器 - Frigate",
-    "motionTuner": "移動調校器 - Frigate",
-    "object": "除錯 - Frigate",
-    "general": "介面設定 - Frigate",
-    "frigatePlus": "Frigate+ 設定 - Frigate",
-    "notifications": "通知設定 - Frigate",
-    "enrichments": "進階功能設定 - Frigate",
-    "cameraManagement": "管理鏡頭 - Frigate",
-    "cameraReview": "鏡頭檢視設定 - Frigate"
+    "default": "設定 - DISt",
+    "authentication": "認證設定 - DISt",
+    "camera": "鏡頭設定 - DISt",
+    "classification": "進階功能設定 - DISt",
+    "masksAndZones": "遮罩與區域編輯器 - DISt",
+    "motionTuner": "移動調校器 - DISt",
+    "object": "除錯 - DISt",
+    "general": "介面設定 - DISt",
+    "frigatePlus": "Frigate+ 設定 - DISt",
+    "notifications": "通知設定 - DISt",
+    "enrichments": "進階功能設定 - DISt",
+    "cameraManagement": "管理鏡頭 - DISt",
+    "cameraReview": "鏡頭檢視設定 - DISt"
   },
   "menu": {
     "ui": "介面",
@@ -346,11 +346,11 @@
         "title": "區域可讓你定義畫面中的特定範圍，以判斷物件是否進入該範圍。",
         "documentation": "文件"
       },
-      "documentTitle": "編輯區域 - Frigate"
+      "documentTitle": "編輯區域 - DISt"
     },
     "motionMasks": {
       "label": "移動遮罩",
-      "documentTitle": "編輯移動遮罩 - Frigate",
+      "documentTitle": "編輯移動遮罩 - DISt",
       "desc": {
         "title": "移動遮罩可防止不需要的移動觸發偵測。遮罩過多會令物件追蹤變得困難。",
         "documentation": "文件"
@@ -396,7 +396,7 @@
           "noName": "物件遮罩已儲存。"
         }
       },
-      "documentTitle": "編輯物件遮罩 - Frigate",
+      "documentTitle": "編輯物件遮罩 - DISt",
       "edit": "編輯物件遮罩"
     },
     "filter": {

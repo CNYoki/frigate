@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilForTime": "Ως {{time}}",
     "untilForRestart": "Μέχρι να γίνει επανεκίννηση του Frigate.",
@@ -162,12 +162,12 @@
     "more": "Περισσότερες σελίδες"
   },
   "accessDenied": {
-    "documentTitle": "Πρόσβαση απορρίφθηκε - Frigate",
+    "documentTitle": "Πρόσβαση απορρίφθηκε - DISt",
     "title": "Πρόσβαση απορρίφθηκε",
     "desc": "Δεν έχετε άδεια να δείτε αυτή τη σελίδα."
   },
   "notFound": {
-    "documentTitle": "Δεν βρέθηκε - Frigate",
+    "documentTitle": "Δεν βρέθηκε - DISt",
     "title": "404",
     "desc": "Η σελίδα δεν βρέθηκε"
   },

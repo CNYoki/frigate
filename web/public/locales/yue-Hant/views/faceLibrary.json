@@ -1,4 +1,4 @@
-{
+﻿{
   "selectItem": "選擇 {{item}}",
   "details": {
     "timestamp": "時間戳記",
@@ -16,7 +16,7 @@
     "invalidName": "名稱無效，只可包含字母、數字、空格、撇號、底線及連字號。",
     "nameCannotContainHash": "名稱不可包含 #。"
   },
-  "documentTitle": "人臉庫 - Frigate",
+  "documentTitle": "人臉庫 - DISt",
   "uploadFaceImage": {
     "title": "上傳人臉圖片",
     "desc": "上傳圖片以掃描人臉並納入 {{pageToggle}}"

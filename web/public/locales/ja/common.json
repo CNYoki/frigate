@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilForRestart": "Frigate が再起動するまで。",
     "untilRestart": "再起動まで",
@@ -268,12 +268,12 @@
     "more": "さらにページ"
   },
   "accessDenied": {
-    "documentTitle": "アクセス拒否 - Frigate",
+    "documentTitle": "アクセス拒否 - DISt",
     "title": "アクセス拒否",
     "desc": "このページを表示する権限がありません。"
   },
   "notFound": {
-    "documentTitle": "ページが見つかりません - Frigate",
+    "documentTitle": "ページが見つかりません - DISt",
     "title": "404",
     "desc": "ページが見つかりません"
   },

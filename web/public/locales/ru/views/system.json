@@ -1,13 +1,13 @@
-{
+﻿{
   "documentTitle": {
-    "cameras": "Статистика камер - Frigate",
-    "storage": "Статистика хранилища - Frigate",
-    "general": "Общая статистика - Frigate",
-    "enrichments": "Статистика обогащений - Frigate",
+    "cameras": "Статистика камер - DISt",
+    "storage": "Статистика хранилища - DISt",
+    "general": "Общая статистика - DISt",
+    "enrichments": "Статистика обогащений - DISt",
     "logs": {
-      "frigate": "Логи Frigate - Frigate",
-      "go2rtc": "Логи Go2RTC - Frigate",
-      "nginx": "Логи Nginx - Frigate"
+      "frigate": "Логи Frigate - DISt",
+      "go2rtc": "Логи Go2RTC - DISt",
+      "nginx": "Логи Nginx - DISt"
     }
   },
   "title": "Система",

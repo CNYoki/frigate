@@ -1,4 +1,4 @@
-{
+﻿{
   "lastRefreshed": "רענון אחרון: ",
   "stats": {
     "ffmpegHighCpuUsage": "ל-{{camera}} יש צריכת מעבד גבוהה של FFmpeg ({{ffmpegAvg}}%)",
@@ -11,14 +11,14 @@
     "shmTooLow": "יש להגדיל את הקצאת ‎/dev/shm‏ ({{total}} MB) לפחות ל־{{min}} MB."
   },
   "documentTitle": {
-    "cameras": "מצב מצלמות - Frigate",
-    "storage": "מצב אחסון - Frigate",
-    "general": "סטטיסטיקה כללית - Frigate",
-    "enrichments": "סטטיסטיקת העשרה - Frigate",
+    "cameras": "מצב מצלמות - DISt",
+    "storage": "מצב אחסון - DISt",
+    "general": "סטטיסטיקה כללית - DISt",
+    "enrichments": "סטטיסטיקת העשרה - DISt",
     "logs": {
-      "frigate": "לוגים - Frigate",
-      "go2rtc": "לוגים - Go2RTC - Frigate",
-      "nginx": "לוגים - Nginx - Frigate"
+      "frigate": "לוגים - DISt",
+      "go2rtc": "לוגים - Go2RTC - DISt",
+      "nginx": "לוגים - Nginx - DISt"
     }
   },
   "title": "מערכת",

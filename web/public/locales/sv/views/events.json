@@ -1,4 +1,4 @@
-{
+﻿{
   "detections": "Detektioner",
   "alerts": "Varningar",
   "motion": {
@@ -15,7 +15,7 @@
       "description": "Granskningsobjekt kan bara skapas för en kamera när inspelningar är aktiverat för den kameran."
     }
   },
-  "documentTitle": "Granska - Frigate",
+  "documentTitle": "Granska - DISt",
   "timeline": "Tidslinje",
   "events": {
     "noFoundForTimePeriod": "Inga hädelser hittade för denna tidsperiod.",
@@ -23,7 +23,7 @@
     "label": "Händelse"
   },
   "recordings": {
-    "documentTitle": "Inspelningar - Frigate"
+    "documentTitle": "Inspelningar - DISt"
   },
   "newReviewItems": {
     "label": "Visa nya objekt att granska",

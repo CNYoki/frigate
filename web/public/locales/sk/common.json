@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilForTime": "Do{{time}}",
     "untilForRestart": "Do reštartu Frigate.",
@@ -283,12 +283,12 @@
     "more": "Viac strán"
   },
   "accessDenied": {
-    "documentTitle": "Prístup odmietnutý - Frigate",
+    "documentTitle": "Prístup odmietnutý - DISt",
     "title": "Prístup odmietnutý",
     "desc": "Nemáte oprávnenie zobraziť túto stránku."
   },
   "notFound": {
-    "documentTitle": "Nenájdené - Frigate",
+    "documentTitle": "Nenájdené - DISt",
     "title": "404",
     "desc": "Stránka nenájdená"
   },

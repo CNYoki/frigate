@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "last14": "Ultimi 14 giorni",
     "pm": "pm",
@@ -282,12 +282,12 @@
   },
   "accessDenied": {
     "desc": "Non hai i permessi per visualizzare questa pagina.",
-    "documentTitle": "Accesso vietato - Frigate",
+    "documentTitle": "Accesso vietato - DISt",
     "title": "Accesso vietato"
   },
   "notFound": {
     "desc": "Pagina non trovata",
-    "documentTitle": "Non trovato - Frigate",
+    "documentTitle": "Non trovato - DISt",
     "title": "404"
   },
   "toast": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "alerts": "Alerte",
   "motion": {
     "label": "Mișcare",
@@ -21,9 +21,9 @@
     "noFoundForTimePeriod": "Niciun eveniment gasit pentru acest interval de timp.",
     "label": "Evenimente"
   },
-  "documentTitle": "Revizuieste - Frigate",
+  "documentTitle": "Revizuieste - DISt",
   "recordings": {
-    "documentTitle": "Inregistrari - frigate"
+    "documentTitle": "Inregistrari - DISt"
   },
   "calendarFilter": {
     "last24Hours": "Ultimele 24 de ore"

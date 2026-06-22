@@ -1,12 +1,12 @@
-{
+﻿{
   "documentTitle": {
-    "default": "Iestatījumi - Frigate",
-    "authentication": "Autentifikācijas iestatījumi - Frigate",
-    "cameraManagement": "Pārvaldīt kameras - Frigate",
-    "cameraReview": "Kameras skata iestatījumi - Frigate",
-    "enrichments": "Bagātināšanas iestatījumi - Frigate",
-    "masksAndZones": "Masku un zonu rediģētājs - Frigate",
-    "motionTuner": "Kustības noteikšana - Frigate"
+    "default": "Iestatījumi - DISt",
+    "authentication": "Autentifikācijas iestatījumi - DISt",
+    "cameraManagement": "Pārvaldīt kameras - DISt",
+    "cameraReview": "Kameras skata iestatījumi - DISt",
+    "enrichments": "Bagātināšanas iestatījumi - DISt",
+    "masksAndZones": "Masku un zonu rediģētājs - DISt",
+    "motionTuner": "Kustības noteikšana - DISt"
   },
   "cameraWizard": {
     "step1": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilForTime": "До {{time}}",
     "untilForRestart": "До перезапуска Frigate.",
@@ -276,12 +276,12 @@
   },
   "accessDenied": {
     "desc": "У вас нет разрешения на просмотр этой страницы.",
-    "documentTitle": "Доступ запрещён - Frigate",
+    "documentTitle": "Доступ запрещён - DISt",
     "title": "Доступ запрещён"
   },
   "notFound": {
     "desc": "Страница не найдена",
-    "documentTitle": "Не найдена - Frigate",
+    "documentTitle": "Не найдена - DISt",
     "title": "404"
   },
   "toast": {

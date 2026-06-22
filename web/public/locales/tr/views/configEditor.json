@@ -1,4 +1,4 @@
-{
+﻿{
   "saveOnly": "Sadece Kaydet",
   "toast": {
     "error": {
@@ -10,7 +10,7 @@
   },
   "copyConfig": "Yapılandırmayı Kopyala",
   "configEditor": "Yapılandırma Düzenleyicisi",
-  "documentTitle": "Yapılandırma Düzenleyicisi - Frigate",
+  "documentTitle": "Yapılandırma Düzenleyicisi - DISt",
   "saveAndRestart": "Kaydet & Yeniden Başlat",
   "confirm": "Kaydetmeden çıkılsın mı?",
   "safeConfigEditor": "Yapılandırma Düzenleyicisi (Güvenli Mod)",

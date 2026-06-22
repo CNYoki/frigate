@@ -1,4 +1,4 @@
-{
+﻿{
   "muteCameras": {
     "enable": "Summuta kõik kaamerad",
     "disable": "Lõpeta kõikide kaamerate summutamine"
@@ -13,8 +13,8 @@
     "snapshots": "Hetkvõtted",
     "autotracking": "Automaatne jälgimine"
   },
-  "documentTitle": "Otseülekanne - Frigate",
-  "documentTitle.withCamera": "{{camera}} - Otseülekanne - Frigate",
+  "documentTitle": "Otseülekanne - DISt",
+  "documentTitle.withCamera": "{{camera}} - Otseülekanne - DISt",
   "lowBandwidthMode": "Väikese ribalaiusega režiim",
   "twoWayTalk": {
     "enable": "Lülita kahepoolne kõneside sisse",

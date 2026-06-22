@@ -1,4 +1,4 @@
-{
+﻿{
   "selectItem": "Selecciona {{item}}",
   "details": {
     "subLabelScore": "Puntuació de la subetiqueta",
@@ -22,7 +22,7 @@
     "invalidName": "Nom no vàlid. Els noms només poden incloure lletres, números, espais, apòstrofs, guions baixos i guions.",
     "nameCannotContainHash": "El nom no pot contenir #."
   },
-  "documentTitle": "Biblioteca de rostres - Frigate",
+  "documentTitle": "Biblioteca de rostres - DISt",
   "uploadFaceImage": {
     "title": "Puja una imatge del rostre",
     "desc": "Carregar una imatge per escanejar els rostres i incloure per a {{pageToggle}}"

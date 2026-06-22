@@ -1,4 +1,4 @@
-{
+﻿{
   "exploreIsUnavailable": {
     "downloadingModels": {
       "tips": {
@@ -27,7 +27,7 @@
       }
     }
   },
-  "documentTitle": "Пошук подія - Frigate",
+  "documentTitle": "Пошук подія - DISt",
   "searchResult": {
     "tooltip": "Збігається з {{type}} на рівні {{confidence}}%",
     "deleteTrackedObject": {

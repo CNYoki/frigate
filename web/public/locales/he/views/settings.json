@@ -1,4 +1,4 @@
-{
+﻿{
   "camera": {
     "reviewClassification": {
       "zoneObjectDetectionsTips": {
@@ -101,7 +101,7 @@
     "objectMaskLabel": "מיסוך אובייקט {{number}} ({{label}})",
     "zones": {
       "label": "אזורים.",
-      "documentTitle": "עריכת אזור - Frigate",
+      "documentTitle": "עריכת אזור - DISt",
       "desc": {
         "title": "אזורים מאפשרים לך להגדיר אזור ספציפי בפריים, כך שתוכל לקבוע האם אובייקט נמצא בתוך אזור מסוים או לא.",
         "documentation": "תיעוד"
@@ -158,7 +158,7 @@
       "point_two": "נקודות {{count}}",
       "point_other": "נקודות {{count}}",
       "label": "מיסוך תנועה.",
-      "documentTitle": "עריכת מיסוך תנועה - Frigate",
+      "documentTitle": "עריכת מיסוך תנועה - DISt",
       "desc": {
         "documentation": "תיעוד",
         "title": "מיסוך תנועה משמש כדי למנוע זיהוי של תנועה לא רצויה. מיסוך יתר יקשה על מעקב אחר אובייקטים."
@@ -187,7 +187,7 @@
       "point_two": "נקודות {{count}}",
       "point_other": "נקודות {{count}}",
       "label": "מיסוך אובייקט",
-      "documentTitle": "עריכת מיסוך אובייקט - Frigate",
+      "documentTitle": "עריכת מיסוך אובייקט - DISt",
       "desc": {
         "title": "מיסוך סינון אובייקטים משמש לסינון תוצאות חיוביות שגויות עבור סוג אובייקט נתון בהתבסס על מיקום.",
         "documentation": "תיעוד"
@@ -268,18 +268,18 @@
     }
   },
   "documentTitle": {
-    "camera": "הגדרת מצלמה - Frigate",
-    "enrichments": "הגדרות העשרה - Frigate",
-    "masksAndZones": "עריכת מיסוך אזור - Frigate",
-    "motionTuner": "כיול תנועה - Frigate",
-    "object": "ניפוי שגיאות - Frigate",
-    "frigatePlus": "הגדרות +Frigate - Frigate",
-    "notifications": "הגדרת התראות - Frigate",
-    "authentication": "הגדרות אימות - Frigate",
-    "default": "הגדרות - Frigate",
-    "general": "הגדרות ממשק (UI) - Frigate",
-    "cameraManagement": "ניהול מצלמות - Frigate",
-    "cameraReview": "הגדרות סקירת מצלמה - Frigate"
+    "camera": "הגדרת מצלמה - DISt",
+    "enrichments": "הגדרות העשרה - DISt",
+    "masksAndZones": "עריכת מיסוך אזור - DISt",
+    "motionTuner": "כיול תנועה - DISt",
+    "object": "ניפוי שגיאות - DISt",
+    "frigatePlus": "הגדרות +Frigate - DISt",
+    "notifications": "הגדרת התראות - DISt",
+    "authentication": "הגדרות אימות - DISt",
+    "default": "הגדרות - DISt",
+    "general": "הגדרות ממשק (UI) - DISt",
+    "cameraManagement": "ניהול מצלמות - DISt",
+    "cameraReview": "הגדרות סקירת מצלמה - DISt"
   },
   "menu": {
     "ui": "UI - ממשק משתמש",

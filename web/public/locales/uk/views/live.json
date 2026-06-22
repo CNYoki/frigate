@@ -1,4 +1,4 @@
-{
+﻿{
   "manualRecording": {
     "started": "Почав ручний запис на вимогу.",
     "showStats": {
@@ -105,8 +105,8 @@
       "label": "Редагувати групу камер"
     }
   },
-  "documentTitle": "Пряма трансляція - Frigate",
-  "documentTitle.withCamera": "{{camera}} - Пряма трансляція - Frigate",
+  "documentTitle": "Пряма трансляція - DISt",
+  "documentTitle.withCamera": "{{camera}} - Пряма трансляція - DISt",
   "lowBandwidthMode": "Економічний режим",
   "twoWayTalk": {
     "enable": "Увімкнути двосторонню розмову",

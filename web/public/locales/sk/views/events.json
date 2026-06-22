@@ -1,4 +1,4 @@
-{
+﻿{
   "alerts": "Upozornenia",
   "detections": "Detekcie",
   "motion": {
@@ -20,7 +20,7 @@
   },
   "documentTitle": "Recenzia - Frikgate",
   "recordings": {
-    "documentTitle": "Nahrávky - Frigate"
+    "documentTitle": "Nahrávky - DISt"
   },
   "calendarFilter": {
     "last24Hours": "Posledných 24 hodín"

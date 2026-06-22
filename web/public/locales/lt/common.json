@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilForTime": "Iki {{time}}",
     "untilForRestart": "Iki kol Frigate persikraus.",
@@ -280,12 +280,12 @@
     "more": "Daugiau puslapių"
   },
   "accessDenied": {
-    "documentTitle": "Priegai Nesuteikta - Frigate",
+    "documentTitle": "Priegai Nesuteikta - DISt",
     "title": "Prieiga Nesuteikta",
     "desc": "Jūs neturite leidimo žiūrėti šį puslapį."
   },
   "notFound": {
-    "documentTitle": "Nerasta - Frigate",
+    "documentTitle": "Nerasta - DISt",
     "title": "404",
     "desc": "Puslapis nerastas"
   },

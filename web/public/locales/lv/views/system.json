@@ -1,13 +1,13 @@
-{
+﻿{
   "documentTitle": {
-    "cameras": "Kameru statistika - Frigate",
-    "storage": "Uzglabāšanas statistika - Frigate",
-    "general": "Vispārīgā statistika - Frigate",
-    "enrichments": "Bagātināšanas statistika - Frigate",
+    "cameras": "Kameru statistika - DISt",
+    "storage": "Uzglabāšanas statistika - DISt",
+    "general": "Vispārīgā statistika - DISt",
+    "enrichments": "Bagātināšanas statistika - DISt",
     "logs": {
-      "frigate": "Frigate konfigurācija - Frigate",
-      "go2rtc": "Logi Go2RTC - Frigate",
-      "nginx": "Logi Nginx - Frigate"
+      "frigate": "Frigate konfigurācija - DISt",
+      "go2rtc": "Logi Go2RTC - DISt",
+      "nginx": "Logi Nginx - DISt"
     }
   },
   "stats": {

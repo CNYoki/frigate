@@ -1,4 +1,4 @@
-{
+﻿{
   "alerts": "התרעות",
   "detections": "גילויים",
   "motion": {
@@ -22,9 +22,9 @@
     "aria": "בחירת אירועים",
     "noFoundForTimePeriod": "לא נמצאו אירועים עבור תקופת זמן זו."
   },
-  "documentTitle": "סקירה - Frigate",
+  "documentTitle": "סקירה - DISt",
   "recordings": {
-    "documentTitle": "הקלטות - Frigate"
+    "documentTitle": "הקלטות - DISt"
   },
   "calendarFilter": {
     "last24Hours": "24 שעות אחרונות"

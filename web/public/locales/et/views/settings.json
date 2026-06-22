@@ -1,4 +1,4 @@
-{
+﻿{
   "cameraWizard": {
     "step1": {
       "password": "Salasõna",
@@ -169,15 +169,15 @@
     }
   },
   "documentTitle": {
-    "default": "Seadistused - Frigate",
-    "authentication": "Autentimise seadistused - Frigate",
-    "cameraReview": "Kaamerate kordusvaatuste seadistused - Frigate",
-    "general": "Kasutajaliidese seadistused - Frigate",
-    "frigatePlus": "Frigate+ seadistused - Frigate",
-    "notifications": "Teavituste seadistused - Frigate",
-    "cameraManagement": "Kaamerate haldus - Frigate",
-    "masksAndZones": "Maskide ja tsoonide haldus - Frigate",
-    "object": "Silumine ja veaotsing - Frigate"
+    "default": "Seadistused - DISt",
+    "authentication": "Autentimise seadistused - DISt",
+    "cameraReview": "Kaamerate kordusvaatuste seadistused - DISt",
+    "general": "Kasutajaliidese seadistused - DISt",
+    "frigatePlus": "Frigate+ seadistused - DISt",
+    "notifications": "Teavituste seadistused - DISt",
+    "cameraManagement": "Kaamerate haldus - DISt",
+    "masksAndZones": "Maskide ja tsoonide haldus - DISt",
+    "object": "Silumine ja veaotsing - DISt"
   },
   "general": {
     "title": "Kasutajaliidese seadistused",

@@ -1,17 +1,17 @@
-{
+﻿{
   "documentTitle": {
-    "camera": "Kamera-asetukset - Frigate",
-    "classification": "Klassifiointiasetukset - Frigate",
-    "masksAndZones": "Peite ja vyöhykemuokkain - Frigate",
-    "motionTuner": "Liikesäädin - Frigate",
-    "default": "Asetukset - Frigate",
-    "general": "Yleiset asetukset - Frigate",
-    "frigatePlus": "Frigate+ asetukset - Frigate",
-    "object": "Virheenjäljitys - Frigate",
-    "authentication": "Autentikointiuasetukset - Frigate",
-    "notifications": "Ilmoitusasetukset - Frigate",
+    "camera": "Kamera-asetukset - DISt",
+    "classification": "Klassifiointiasetukset - DISt",
+    "masksAndZones": "Peite ja vyöhykemuokkain - DISt",
+    "motionTuner": "Liikesäädin - DISt",
+    "default": "Asetukset - DISt",
+    "general": "Yleiset asetukset - DISt",
+    "frigatePlus": "Frigate+ asetukset - DISt",
+    "object": "Virheenjäljitys - DISt",
+    "authentication": "Autentikointiuasetukset - DISt",
+    "notifications": "Ilmoitusasetukset - DISt",
     "enrichments": "Laajennusasetukset – Frigate",
-    "cameraManagement": "Hallitse Kameroita - Frigate"
+    "cameraManagement": "Hallitse Kameroita - DISt"
   },
   "menu": {
     "ui": "Käyttöliittymä",
@@ -238,7 +238,7 @@
     },
     "zones": {
       "label": "Vyöhykkeet",
-      "documentTitle": "Muokkaa vyöhykkeitä - Frigate",
+      "documentTitle": "Muokkaa vyöhykkeitä - DISt",
       "edit": "Myokkaa vyöhykettä",
       "inertia": {
         "title": "Inertia",
@@ -302,7 +302,7 @@
         "documentation": "Lue dokumentaatio",
         "title": "Liikepeittoja käytetään estämään ei-toivottujen liiketyyppien (esimerkiksi puiden oksat, kameroiden aikaleimat) aiheuttamat tunnistukset. Liikepeittoja tulisi käyttää <em>hyvin säästeliäästi</em>, sillä liiallinen maskaus vaikeuttaa kohteiden seurantaa."
       },
-      "documentTitle": "Muokkaa liikepeittoa - Frigate",
+      "documentTitle": "Muokkaa liikepeittoa - DISt",
       "desc": {
         "title": "Liikepeittoa käytetään estämään ei-toivottujen liiketyyppien aiheuttamat tunnistukset. Liiallinen peittäminen vaikeuttaa kohteiden seurantaa.",
         "documentation": "Dokumentaatio"
@@ -337,7 +337,7 @@
           "noName": "Kohdepeitto on tallennettu. Käynnistä Frigatti uudelleen muutosten käyttöönottamiseksi."
         }
       },
-      "documentTitle": "Muokkaa kohdepeittoa - Frigate",
+      "documentTitle": "Muokkaa kohdepeittoa - DISt",
       "desc": {
         "title": "Objektisuodatinpeittoja käytetään suodattamaan pois väärät positiiviset tulokset tietylle kohdetyypille sijainnin perusteella.",
         "documentation": "Dokumentaatio"

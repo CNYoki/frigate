@@ -1,4 +1,4 @@
-{
+﻿{
   "alerts": "Paziņojumi",
   "detections": "Atklājumi",
   "motion": {
@@ -37,9 +37,9 @@
     "trackedPoint": "Izsekots punkts",
     "clickToSeek": "Noklikšķiniet, lai pārietu uz šo laiku"
   },
-  "documentTitle": "Pārskats - Frigate",
+  "documentTitle": "Pārskats - DISt",
   "recordings": {
-    "documentTitle": "Ieraksti - Frigate"
+    "documentTitle": "Ieraksti - DISt"
   },
   "calendarFilter": {
     "last24Hours": "Pēdējās 24 stundas"

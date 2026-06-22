@@ -1,4 +1,4 @@
-{
+﻿{
   "description": {
     "addFace": "Dodaj novo zbirko v knjižnico obrazov tako, da naložiš svojo prvo sliko.",
     "placeholder": "Vnesite ime za to zbirko",
@@ -50,7 +50,7 @@
       "updateFaceScoreFailed": "Posodobitev ocene obraza ni uspela: {{errorMessage}}"
     }
   },
-  "documentTitle": "Knjižnica obrazov - Frigate",
+  "documentTitle": "Knjižnica obrazov - DISt",
   "collections": "Zbirke",
   "createFaceLibrary": {
     "title": "Ustvari Zbirko",

@@ -1,4 +1,4 @@
-{
+﻿{
   "alerts": "Alertas",
   "detections": "Detecciones",
   "motion": {
@@ -22,7 +22,7 @@
     "aria": "Seleccionar eventos",
     "noFoundForTimePeriod": "No se encontraron eventos para este período de tiempo."
   },
-  "documentTitle": "Revisión - Frigate",
+  "documentTitle": "Revisión - DISt",
   "markAsReviewed": "Marcar como revisado",
   "newReviewItems": {
     "label": "Ver nuevos elementos de revisión",
@@ -30,7 +30,7 @@
   },
   "camera": "Cámara",
   "recordings": {
-    "documentTitle": "Grabaciones - Frigate"
+    "documentTitle": "Grabaciones - DISt"
   },
   "calendarFilter": {
     "last24Hours": "Últimas 24 horas"

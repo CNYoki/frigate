@@ -1,13 +1,13 @@
-{
+﻿{
   "documentTitle": {
     "cameras": "إحصاءات الكاميرات - فرايجيت",
     "storage": "إحصاءات التخزين - فرايجيت",
     "general": "إحصاءات عامة - فرايجيت",
     "enrichments": "إحصاء العمليات",
     "logs": {
-      "frigate": "سجلات Frigate - Frigate",
+      "frigate": "سجلات Frigate - DISt",
       "go2rtc": "Go2RTC  سجلات  -  Frigate",
-      "nginx": "سجلات إنجنإكس - Frigate"
+      "nginx": "سجلات إنجنإكس - DISt"
     }
   },
   "metrics": "مقاييس النظام",

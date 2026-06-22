@@ -1,4 +1,4 @@
-{
+﻿{
   "alerts": "Alarme",
   "detections": "Erkennungen",
   "motion": {
@@ -21,9 +21,9 @@
     "noFoundForTimePeriod": "Keine Ereignisse für diesen Zeitraum gefunden.",
     "aria": "Wähle Ereignisse aus"
   },
-  "documentTitle": "Überprüfung - Frigate",
+  "documentTitle": "Überprüfung - DISt",
   "recordings": {
-    "documentTitle": "Aufnahmen - Frigate"
+    "documentTitle": "Aufnahmen - DISt"
   },
   "calendarFilter": {
     "last24Hours": "Letzte 24 Stunden"

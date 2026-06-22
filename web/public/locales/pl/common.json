@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "12hours": "12 godzin",
     "1hour": "1 godzina",
@@ -283,12 +283,12 @@
   "accessDenied": {
     "title": "Dostęp Zabroniony",
     "desc": "Nie masz uprawnień do wyświetlenia tej strony.",
-    "documentTitle": "Dostęp Zabroniony - Frigate"
+    "documentTitle": "Dostęp Zabroniony - DISt"
   },
   "notFound": {
     "title": "404",
     "desc": "Strona nie znaleziona",
-    "documentTitle": "Nie Znaleziono - Frigate"
+    "documentTitle": "Nie Znaleziono - DISt"
   },
   "selectItem": "Wybierz {{item}}",
   "toast": {

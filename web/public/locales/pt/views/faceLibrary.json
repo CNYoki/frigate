@@ -1,4 +1,4 @@
-{
+﻿{
   "description": {
     "placeholder": "Digite um nome para esta coleção",
     "addFace": "Veja como adicionar uma nova coleção à biblioteca de rostos.",
@@ -14,7 +14,7 @@
     "subLabelScore": "Pontuação da Subetiqueta",
     "unknown": "Desconhecido"
   },
-  "documentTitle": "Biblioteca de rostos - Frigate",
+  "documentTitle": "Biblioteca de rostos - DISt",
   "uploadFaceImage": {
     "title": "Carregar imagem do rosto",
     "desc": "Carregue uma imagem para procurar rostos e incluir em {{pageToggle}}"

@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilForRestart": "Jusqu'au redémarrage de Frigate",
     "untilRestart": "Jusqu'au redémarrage",
@@ -265,14 +265,14 @@
   },
   "notFound": {
     "title": "404",
-    "documentTitle": "Non trouvé - Frigate",
+    "documentTitle": "Non trouvé - DISt",
     "desc": "Page non trouvée"
   },
   "selectItem": "Sélectionner {{item}}",
   "readTheDocumentation": "Lire la documentation",
   "accessDenied": {
     "title": "Accès refusé",
-    "documentTitle": "Accès refusé - Frigate",
+    "documentTitle": "Accès refusé - DISt",
     "desc": "Vous n'avez pas l'autorisation de consulter cette page."
   },
   "label": {

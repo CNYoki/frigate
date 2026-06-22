@@ -1,4 +1,4 @@
-{
+﻿{
   "details": {
     "person": "Person",
     "confidence": "Säkerhet",
@@ -15,7 +15,7 @@
     "invalidName": "Ogiltigt namn. Namn får endast innehålla bokstäver, siffror, mellanslag, apostrofer, understreck och bindestreck.",
     "nameCannotContainHash": "Namn får inte innehålla #."
   },
-  "documentTitle": "Ansiktsbibliotek - Frigate",
+  "documentTitle": "Ansiktsbibliotek - DISt",
   "steps": {
     "faceName": "Ange namn",
     "uploadFace": "Ladda upp bild på ansikte",

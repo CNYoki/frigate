@@ -1,4 +1,4 @@
-{
+﻿{
   "details": {
     "timestamp": "Zeitstempel",
     "item": {
@@ -84,7 +84,7 @@
       "label": "Titel"
     }
   },
-  "documentTitle": "Erkunde - Frigate",
+  "documentTitle": "Erkunde - DISt",
   "generativeAI": "Generative KI",
   "exploreIsUnavailable": {
     "title": "Erkunden ist nicht Verfügbar",

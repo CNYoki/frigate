@@ -1,4 +1,4 @@
-{
+﻿{
   "description": {
     "addFace": "Add a new collection to the Face Library by uploading your first image.",
     "placeholder": "Enter a name for this collection",
@@ -10,7 +10,7 @@
     "unknown": "Unknown",
     "scoreInfo": "Score is a weighted average of all face scores, weighted by the size of the face in each image."
   },
-  "documentTitle": "Face Library - Frigate",
+  "documentTitle": "Face Library - DISt",
   "uploadFaceImage": {
     "title": "Upload Face Image",
     "desc": "Upload an image to scan for faces and include for {{pageToggle}}"

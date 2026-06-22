@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilForTime": "Kuni {{time}}",
     "today": "Täna",
@@ -283,12 +283,12 @@
     "more": "Järgnevad lehed"
   },
   "accessDenied": {
-    "documentTitle": "Ligipääs on keelatud - Frigate",
+    "documentTitle": "Ligipääs on keelatud - DISt",
     "title": "Ligipääs on keelatud",
     "desc": "Sul pole õigusi selle lehe vaatamiseks."
   },
   "notFound": {
-    "documentTitle": "Lehte ei leidu - Frigate",
+    "documentTitle": "Lehte ei leidu - DISt",
     "title": "404",
     "desc": "Veebilehte ei leidu"
   },

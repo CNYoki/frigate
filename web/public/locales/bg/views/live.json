@@ -1,4 +1,4 @@
-{
+﻿{
   "stream": {
     "playInBackground": {
       "tips": "Активирайте тази опция, за да продължите поточното предаване, когато плейърът е скрит."
@@ -64,6 +64,6 @@
   "cameraSettings": {
     "cameraEnabled": "Камерата е включена"
   },
-  "documentTitle": "Наживо - Frigate",
+  "documentTitle": "Наживо - DISt",
   "documentTitle.withCamera": "{{camera}} - На живо - Фригейт"
 }

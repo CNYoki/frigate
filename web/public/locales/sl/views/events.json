@@ -1,4 +1,4 @@
-{
+﻿{
   "detected": "zaznanih",
   "events": {
     "noFoundForTimePeriod": "Za to časovno obdobje ni bilo najdenih dogodkov.",
@@ -16,10 +16,10 @@
     }
   },
   "recordings": {
-    "documentTitle": "Posnetki - Frigate"
+    "documentTitle": "Posnetki - DISt"
   },
   "camera": "Kamera",
-  "documentTitle": "Pregled - Frigate",
+  "documentTitle": "Pregled - DISt",
   "alerts": "Opozorila",
   "detections": "Zaznavanja",
   "motion": {

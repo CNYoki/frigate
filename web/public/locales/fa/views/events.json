@@ -1,4 +1,4 @@
-{
+﻿{
   "alerts": "هشدار‌ها",
   "detections": "تشخیص‌ها",
   "motion": {
@@ -53,7 +53,7 @@
     "trackedPoint": "نقطهٔ ردیابی‌شده",
     "clickToSeek": "برای رفتن به این زمان کلیک کنید"
   },
-  "documentTitle": "بازبینی - Frigate",
+  "documentTitle": "بازبینی - DISt",
   "selected_one": "{{count}} انتخاب شد",
   "selected_other": "{{count}} انتخاب شدند",
   "select_all": "همه",

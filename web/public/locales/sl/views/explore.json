@@ -1,4 +1,4 @@
-{
+﻿{
   "exploreIsUnavailable": {
     "title": "Funkcija razišči ni na voljo",
     "downloadingModels": {
@@ -27,7 +27,7 @@
       "finishingShortly": "Kmalu končano"
     }
   },
-  "documentTitle": "Razišči - Frigate",
+  "documentTitle": "Razišči - DISt",
   "generativeAI": "Generativna UI",
   "exploreMore": "Razišči več {{label}} objektov",
   "details": {

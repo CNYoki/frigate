@@ -1,14 +1,14 @@
-{
+﻿{
   "documentTitle": {
     "camera": "إعدادات الكاميرا - فرايجيت",
     "default": "الإعدادات - فرايجيت",
     "authentication": "إعدادات المصادقة - فرايجيت",
     "enrichments": "إحصاء الاعدادات",
-    "masksAndZones": "القناع ومحرر المنطقة - Frigate",
+    "masksAndZones": "القناع ومحرر المنطقة - DISt",
     "motionTuner": "مضبط الحركة - Firgate",
-    "object": "تصحيح الأخطاء - Frigate",
-    "general": "الإعدادات العامة - Frigate",
-    "notifications": "إعدادات الإشعارات - Frigate"
+    "object": "تصحيح الأخطاء - DISt",
+    "general": "الإعدادات العامة - DISt",
+    "notifications": "إعدادات الإشعارات - DISt"
   },
   "menu": {
     "ui": "واجهة المستخدم",

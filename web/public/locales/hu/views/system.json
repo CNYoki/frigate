@@ -1,14 +1,14 @@
-{
+﻿{
   "documentTitle": {
-    "cameras": "Kamera statisztikák - Frigate",
-    "storage": "Tárhely statisztikák - Frigate",
-    "general": "Általános Statisztikák - Frigate",
+    "cameras": "Kamera statisztikák - DISt",
+    "storage": "Tárhely statisztikák - DISt",
+    "general": "Általános Statisztikák - DISt",
     "logs": {
-      "frigate": "Frigate naplók - Frigate",
-      "go2rtc": "Go2RTC naplók - Frigate",
-      "nginx": "Nginx naplók - Frigate"
+      "frigate": "Frigate naplók - DISt",
+      "go2rtc": "Go2RTC naplók - DISt",
+      "nginx": "Nginx naplók - DISt"
     },
-    "enrichments": "Kiegészítés statisztikák - Frigate"
+    "enrichments": "Kiegészítés statisztikák - DISt"
   },
   "cameras": {
     "label": {

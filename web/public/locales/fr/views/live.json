@@ -1,7 +1,7 @@
-{
-  "documentTitle": "Direct - Frigate",
+﻿{
+  "documentTitle": "Direct - DISt",
   "lowBandwidthMode": "Mode bande passante faible",
-  "documentTitle.withCamera": "{{camera}} - Direct - Frigate",
+  "documentTitle.withCamera": "{{camera}} - Direct - DISt",
   "twoWayTalk": {
     "disable": "Désactiver la conversation bidirectionnelle",
     "enable": "Activer la conversation bidirectionnelle"

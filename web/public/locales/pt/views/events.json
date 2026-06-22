@@ -1,4 +1,4 @@
-{
+﻿{
   "detections": "Deteções",
   "motion": {
     "label": "Movimento",
@@ -18,7 +18,7 @@
   },
   "timeline.aria": "Selecione a linha do tempo",
   "alerts": "Alertas",
-  "documentTitle": "Análise - Frigate",
+  "documentTitle": "Análise - DISt",
   "recordings": {
     "documentTitle": "Frigate - Gravações"
   },

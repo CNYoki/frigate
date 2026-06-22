@@ -1,17 +1,17 @@
-{
+﻿{
   "documentTitle": {
-    "authentication": "認証設定 - Frigate",
-    "camera": "カメラ設定 - Frigate",
-    "default": "設定 - Frigate",
-    "enrichments": "高度解析設定 - Frigate",
-    "masksAndZones": "マスク／ゾーンエディタ - Frigate",
-    "motionTuner": "モーションチューナー - Frigate",
-    "object": "デバッグ - Frigate",
-    "general": "UI設定 - Frigate",
-    "frigatePlus": "Frigate+ 設定 - Frigate",
-    "notifications": "通知設定 - Frigate",
-    "cameraManagement": "カメラ設定 - Frigate",
-    "cameraReview": "カメラレビュー設定 - Frigate"
+    "authentication": "認証設定 - DISt",
+    "camera": "カメラ設定 - DISt",
+    "default": "設定 - DISt",
+    "enrichments": "高度解析設定 - DISt",
+    "masksAndZones": "マスク／ゾーンエディタ - DISt",
+    "motionTuner": "モーションチューナー - DISt",
+    "object": "デバッグ - DISt",
+    "general": "UI設定 - DISt",
+    "frigatePlus": "Frigate+ 設定 - DISt",
+    "notifications": "通知設定 - DISt",
+    "cameraManagement": "カメラ設定 - DISt",
+    "cameraReview": "カメラレビュー設定 - DISt"
   },
   "menu": {
     "ui": "UI",
@@ -298,7 +298,7 @@
     },
     "zones": {
       "label": "ゾーン",
-      "documentTitle": "ゾーンを編集 - Frigate",
+      "documentTitle": "ゾーンを編集 - DISt",
       "desc": {
         "title": "ゾーンを使うと、フレーム内の特定領域を定義し、オブジェクトがその領域内にいるかどうかを判断できます。",
         "documentation": "ドキュメント"
@@ -349,7 +349,7 @@
     },
     "motionMasks": {
       "label": "モーションマスク",
-      "documentTitle": "モーションマスクを編集 - Frigate",
+      "documentTitle": "モーションマスクを編集 - DISt",
       "desc": {
         "title": "モーションマスクは、望ましくない種類の動きで検出がトリガーされるのを防ぎます。過度なマスクはオブジェクト追跡を困難にします。",
         "documentation": "ドキュメント"
@@ -374,7 +374,7 @@
     },
     "objectMasks": {
       "label": "オブジェクトマスク",
-      "documentTitle": "オブジェクトマスクを編集 - Frigate",
+      "documentTitle": "オブジェクトマスクを編集 - DISt",
       "desc": {
         "title": "オブジェクトフィルタマスクは、位置に基づいて特定のオブジェクトタイプの誤検出を除外するために使用します。",
         "documentation": "ドキュメント"

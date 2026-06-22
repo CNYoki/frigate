@@ -1,6 +1,6 @@
-{
-  "documentTitle": "实时监控 - Frigate",
-  "documentTitle.withCamera": "{{camera}} - 实时监控 - Frigate",
+﻿{
+  "documentTitle": "实时监控 - DISt",
+  "documentTitle.withCamera": "{{camera}} - 实时监控 - DISt",
   "lowBandwidthMode": "低带宽模式",
   "twoWayTalk": {
     "enable": "开启实时对话",

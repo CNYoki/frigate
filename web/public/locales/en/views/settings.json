@@ -1,16 +1,16 @@
-{
+﻿{
   "documentTitle": {
-    "default": "Settings - Frigate",
-    "authentication": "Authentication Settings - Frigate",
-    "cameraManagement": "Manage Cameras - Frigate",
-    "cameraReview": "Camera Review Settings - Frigate",
-    "enrichments": "Enrichments Settings - Frigate",
-    "masksAndZones": "Mask and Zone Editor - Frigate",
-    "motionTuner": "Motion Tuner - Frigate",
-    "object": "Debug - Frigate",
-    "general": "UI Settings - Frigate",
-    "frigatePlus": "Frigate+ Settings - Frigate",
-    "notifications": "Notification Settings - Frigate"
+    "default": "Settings - DISt",
+    "authentication": "Authentication Settings - DISt",
+    "cameraManagement": "Manage Cameras - DISt",
+    "cameraReview": "Camera Review Settings - DISt",
+    "enrichments": "Enrichments Settings - DISt",
+    "masksAndZones": "Mask and Zone Editor - DISt",
+    "motionTuner": "Motion Tuner - DISt",
+    "object": "Debug - DISt",
+    "general": "UI Settings - DISt",
+    "frigatePlus": "Frigate+ Settings - DISt",
+    "notifications": "Notification Settings - DISt"
   },
   "menu": {
     "ui": "UI",
@@ -493,7 +493,7 @@
     },
     "zones": {
       "label": "Zones",
-      "documentTitle": "Edit Zone - Frigate",
+      "documentTitle": "Edit Zone - DISt",
       "desc": {
         "title": "Zones allow you to define a specific area of the frame so you can determine whether or not an object is within a particular area.",
         "documentation": "Documentation"
@@ -545,7 +545,7 @@
     },
     "motionMasks": {
       "label": "Motion Mask",
-      "documentTitle": "Edit Motion Mask - Frigate",
+      "documentTitle": "Edit Motion Mask - DISt",
       "desc": {
         "title": "Motion masks are used to prevent unwanted types of motion from triggering detection. Over masking will make it more difficult for objects to be tracked.",
         "documentation": "Documentation"
@@ -571,7 +571,7 @@
     },
     "objectMasks": {
       "label": "Object Masks",
-      "documentTitle": "Edit Object Mask - Frigate",
+      "documentTitle": "Edit Object Mask - DISt",
       "desc": {
         "title": "Object filter masks are used to filter out false positives for a given object type based on location.",
         "documentation": "Documentation"

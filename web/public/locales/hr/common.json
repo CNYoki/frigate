@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilForTime": "Do {{time}}",
     "untilForRestart": "Dok se Frigate ponovno pokrene.",
@@ -289,12 +289,12 @@
     "more": "Više stranica"
   },
   "accessDenied": {
-    "documentTitle": "Pristup Odbijen - Frigate",
+    "documentTitle": "Pristup Odbijen - DISt",
     "title": "Pristup Odbijen",
     "desc": "Nemaš dopuštenje za pregled ove stranice."
   },
   "notFound": {
-    "documentTitle": "Nije Nađeno - Frigate",
+    "documentTitle": "Nije Nađeno - DISt",
     "title": "404",
     "desc": "Stranica nije pronađena"
   },

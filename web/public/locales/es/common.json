@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "yesterday": "Ayer",
     "thisMonth": "Este mes",
@@ -291,12 +291,12 @@
     "more": "Más páginas"
   },
   "accessDenied": {
-    "documentTitle": "Acceso denegado - Frigate",
+    "documentTitle": "Acceso denegado - DISt",
     "desc": "No tienes permiso para ver esta página.",
     "title": "Acceso denegado"
   },
   "notFound": {
-    "documentTitle": "No se ha encontrado - Frigate",
+    "documentTitle": "No se ha encontrado - DISt",
     "title": "404",
     "desc": "Página no encontrada"
   },

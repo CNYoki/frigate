@@ -1,4 +1,4 @@
-{
+﻿{
   "camera": "Kamera",
   "alerts": "Alerty",
   "detections": "Wykrycia",
@@ -23,9 +23,9 @@
     "aria": "Wybierz zdarzenia",
     "noFoundForTimePeriod": "Brak zdarzeń w tym okresie czasu."
   },
-  "documentTitle": "Przegląd - Frigate",
+  "documentTitle": "Przegląd - DISt",
   "recordings": {
-    "documentTitle": "Nagrania - Frigate"
+    "documentTitle": "Nagrania - DISt"
   },
   "markAsReviewed": "Oznacz jako przejrzane",
   "markTheseItemsAsReviewed": "Oznacz te elementy jako przejrzane",

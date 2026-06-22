@@ -1,4 +1,4 @@
-{
+﻿{
   "selectItem": "Wybierz {{item}}",
   "description": {
     "addFace": "Dodaj nową kolekcję do biblioteki twarzy, przesyłając swoje pierwsze zdjęcie.",
@@ -16,7 +16,7 @@
     "scoreInfo": "Ocena podetykiety to ważona ocena uwzględniająca wszystkie rozpoznane twarze i ich poziom rozpoznania , dlatego może się różnić od oceny pokazanej na stopklatce.",
     "unknown": "Nieznany"
   },
-  "documentTitle": "Biblioteka twarzy - Frigate",
+  "documentTitle": "Biblioteka twarzy - DISt",
   "uploadFaceImage": {
     "title": "Wgraj zdjęcie twarzy",
     "desc": "Wgraj obraz do skanowania twarzy i dołącz do {{pageToggle}}"

@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilForTime": "Indtil {{time}}",
     "untilForRestart": "Indtil Frigate genstarter.",
@@ -274,12 +274,12 @@
     "more": "Flere sider"
   },
   "accessDenied": {
-    "documentTitle": "Adgang nægtet - Frigate",
+    "documentTitle": "Adgang nægtet - DISt",
     "title": "Adgang nægtet",
     "desc": "Du har ikke rettigheder til at se denne side."
   },
   "notFound": {
-    "documentTitle": "Ikke fundet - Frigate",
+    "documentTitle": "Ikke fundet - DISt",
     "title": "404",
     "desc": "Siden blev ikke fundet"
   },

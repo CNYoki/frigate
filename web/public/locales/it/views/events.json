@@ -1,4 +1,4 @@
-{
+﻿{
   "alerts": "Avvisi",
   "detections": "Rilevamenti",
   "motion": {
@@ -20,7 +20,7 @@
   },
   "markTheseItemsAsReviewed": "Segna questi elementi come visti",
   "markAsReviewed": "Segna come visto",
-  "documentTitle": "Rivedi - Frigate",
+  "documentTitle": "Rivedi - DISt",
   "allCameras": "Tutte le camere",
   "timeline": "Cronologia",
   "timeline.aria": "Seleziona la cronologia",
@@ -30,7 +30,7 @@
     "noFoundForTimePeriod": "Nessun evento trovato per questo intervallo."
   },
   "recordings": {
-    "documentTitle": "Registrazioni - Frigate"
+    "documentTitle": "Registrazioni - DISt"
   },
   "calendarFilter": {
     "last24Hours": "Ultime 24 ore"

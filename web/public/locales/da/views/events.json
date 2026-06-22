@@ -1,4 +1,4 @@
-{
+﻿{
   "alerts": "Alarmer",
   "detections": "Detekteringer",
   "motion": {
@@ -16,9 +16,9 @@
       "title": "Optagelser skal være aktiveret"
     }
   },
-  "documentTitle": "Gennemse - Frigate",
+  "documentTitle": "Gennemse - DISt",
   "recordings": {
-    "documentTitle": "Optagelser - Frigate"
+    "documentTitle": "Optagelser - DISt"
   },
   "calendarFilter": {
     "last24Hours": "Sidste 24 timer"

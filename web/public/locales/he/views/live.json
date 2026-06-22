@@ -1,4 +1,4 @@
-{
+﻿{
   "manualRecording": {
     "title": "לפי דרישה",
     "tips": "הורד צילום מיידי או התחל אירוע ידני בהתאם להגדרות שמירת ההקלטות של מצלמה זו.",
@@ -19,7 +19,7 @@
     "ended": "הקלטה ידנית לפי דרישה הסתיימה.",
     "failedToEnd": "סיום ההקלטה הידנית לפי דרישה נכשל."
   },
-  "documentTitle": "שידור חי - Frigate",
+  "documentTitle": "שידור חי - DISt",
   "documentTitle.withCamera": "{{camera}} - שידור חי- Frigate",
   "lowBandwidthMode": "מצב רוחב פס נמוך",
   "twoWayTalk": {

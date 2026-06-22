@@ -1,11 +1,11 @@
-{
+﻿{
   "deleteExport": "Export löschen",
   "editExport": {
     "title": "Export umbenennen",
     "desc": "Gib einen neuen Namen für diesen Export an.",
     "saveExport": "Export speichern"
   },
-  "documentTitle": "Exportieren - Frigate",
+  "documentTitle": "Exportieren - DISt",
   "deleteExport.desc": "Soll {{exportName}} wirklich gelöscht werden?",
   "search": "Suche",
   "noExports": "Keine Exporte gefunden",

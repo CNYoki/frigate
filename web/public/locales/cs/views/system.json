@@ -1,4 +1,4 @@
-{
+﻿{
   "cameras": {
     "info": {
       "stream": "Stream {{idx}}",
@@ -160,13 +160,13 @@
   "lastRefreshed": "Poslední aktualizace: ",
   "documentTitle": {
     "cameras": "Statistiky kamer – Frigate",
-    "storage": "Statistiky uložiště - Frigate",
-    "general": "Obecné statistiky - Frigate",
-    "enrichments": "Statistiky obohacení - Frigate",
+    "storage": "Statistiky uložiště - DISt",
+    "general": "Obecné statistiky - DISt",
+    "enrichments": "Statistiky obohacení - DISt",
     "logs": {
-      "frigate": "Protokoly Frigate - Frigate",
-      "go2rtc": "Protokoly Go2RTC - Frigate",
-      "nginx": "Protokoly Nginx - Frigate"
+      "frigate": "Protokoly Frigate - DISt",
+      "go2rtc": "Protokoly Go2RTC - DISt",
+      "nginx": "Protokoly Nginx - DISt"
     }
   },
   "title": "Systém",

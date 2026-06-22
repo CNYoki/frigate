@@ -1,5 +1,5 @@
-{
-  "documentTitle": "Настройки на конфигурацията - Frigate",
+﻿{
+  "documentTitle": "Настройки на конфигурацията - DISt",
   "configEditor": "Конфигуратор",
   "safeConfigEditor": "Конфигуратор (Safe Mode)",
   "safeModeDescription": "Frigate е в режим \"Safe Mode\" тъй като конфигурацията не минава проверките за валидност.",

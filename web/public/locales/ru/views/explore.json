@@ -1,4 +1,4 @@
-{
+﻿{
   "exploreIsUnavailable": {
     "embeddingsReindexing": {
       "context": "Поиск станет доступен после завершения переиндексации эмбеддингов отслеживаемых объектов.",
@@ -28,7 +28,7 @@
     }
   },
   "generativeAI": "Генеративный ИИ",
-  "documentTitle": "Поиск событий - Frigate",
+  "documentTitle": "Поиск событий - DISt",
   "details": {
     "timestamp": "Метка времени",
     "item": {

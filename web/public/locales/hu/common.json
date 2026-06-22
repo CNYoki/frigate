@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilForTime": "{{time}} ideig",
     "s": "{{time}} másodperc",
@@ -199,14 +199,14 @@
     "label": "lapozás"
   },
   "accessDenied": {
-    "documentTitle": "Belépés Megtagadva - Frigate",
+    "documentTitle": "Belépés Megtagadva - DISt",
     "title": "Belépés Megtagadva",
     "desc": "Nincs jogolultsága ehhez az oldalhoz."
   },
   "notFound": {
     "title": "404",
     "desc": "Oldal nem található",
-    "documentTitle": "Nem található - Frigate"
+    "documentTitle": "Nem található - DISt"
   },
   "toast": {
     "copyUrlToClipboard": "URL kimásolva a vágólapra.",

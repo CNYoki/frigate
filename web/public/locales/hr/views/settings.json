@@ -1,16 +1,16 @@
-{
+﻿{
   "documentTitle": {
-    "default": "Postavke - Frigate",
-    "authentication": "Postavke autentikacije - Frigate",
-    "cameraManagement": "Upravljaj kamerama - Frigate",
-    "masksAndZones": "Uređivač maski i zona - Frigate",
-    "general": "Postavke sučelja - Frigate",
-    "frigatePlus": "Frigate+ postavke - Frigate",
-    "notifications": "Postavke notifikacija - Frigate",
-    "enrichments": "Postavke obogaćivanja - Frigate",
-    "cameraReview": "Postavke Pregleda Kamere - Frigate",
-    "motionTuner": "Podešivač pokreta - Frigate",
-    "object": "Debug - Frigate"
+    "default": "Postavke - DISt",
+    "authentication": "Postavke autentikacije - DISt",
+    "cameraManagement": "Upravljaj kamerama - DISt",
+    "masksAndZones": "Uređivač maski i zona - DISt",
+    "general": "Postavke sučelja - DISt",
+    "frigatePlus": "Frigate+ postavke - DISt",
+    "notifications": "Postavke notifikacija - DISt",
+    "enrichments": "Postavke obogaćivanja - DISt",
+    "cameraReview": "Postavke Pregleda Kamere - DISt",
+    "motionTuner": "Podešivač pokreta - DISt",
+    "object": "Debug - DISt"
   },
   "menu": {
     "ui": "Sučelje",
@@ -42,7 +42,7 @@
       "point_few": "{{count}} točke",
       "point_other": "{{count}} točaka",
       "label": "Zone",
-      "documentTitle": "Zona uređivanja - Frigate",
+      "documentTitle": "Zona uređivanja - DISt",
       "desc": {
         "title": "Zone vam omogućuju definiranje određenog područja kadra kako biste mogli odrediti nalazi li se objekt unutar određenog područja ili ne.",
         "documentation": "Dokumentacija"
@@ -95,7 +95,7 @@
       "point_few": "{{count}} točke",
       "point_other": "{{count}} točaka",
       "label": "Maska za pokret",
-      "documentTitle": "Uredi Masku Kretnje - Frigate",
+      "documentTitle": "Uredi Masku Kretnje - DISt",
       "desc": {
         "title": "Maske za pokret koriste se kako bi se spriječilo da neželjeni pokreti pokrenu detekciju. Pretjerano maskiranje otežat će praćenje objekata.",
         "documentation": "Dokumentacija"
@@ -122,7 +122,7 @@
       "point_few": "{{count}} točke",
       "point_other": "{{count}} točaka",
       "label": "Maske Objekta",
-      "documentTitle": "Uredi masku objekta - Frigate",
+      "documentTitle": "Uredi masku objekta - DISt",
       "desc": {
         "title": "Maske filtra objekta koriste se za filtriranje lažno pozitivnih rezultata za određenu vrstu objekta na temelju lokacije.",
         "documentation": "Dokumentacija"

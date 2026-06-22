@@ -1,4 +1,4 @@
-{
+﻿{
   "alerts": "Výstrahy",
   "detections": "Detekce",
   "motion": {
@@ -22,7 +22,7 @@
     "aria": "Zvolit události",
     "noFoundForTimePeriod": "Pro toto časové období nebyly nalezeny žádné události."
   },
-  "documentTitle": "Revize - Frigate",
+  "documentTitle": "Revize - DISt",
   "camera": "Kamera",
   "calendarFilter": {
     "last24Hours": "Posledních 24 hodin"
@@ -34,7 +34,7 @@
     "button": "Nové položky revize"
   },
   "recordings": {
-    "documentTitle": "Záznamy - Frigate"
+    "documentTitle": "Záznamy - DISt"
   },
   "detected": "Detekováno",
   "selected_one": "{{count}} vybráno",

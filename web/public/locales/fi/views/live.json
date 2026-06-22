@@ -1,6 +1,6 @@
-{
-  "documentTitle": "Suora - Frigate",
-  "documentTitle.withCamera": "{{camera}} - Suora - Frigate",
+﻿{
+  "documentTitle": "Suora - DISt",
+  "documentTitle.withCamera": "{{camera}} - Suora - DISt",
   "lowBandwidthMode": "Pienen kaistanleveyden tila",
   "twoWayTalk": {
     "enable": "Ota käyttöön kaksisuuntainen puhe",

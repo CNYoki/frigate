@@ -1,13 +1,13 @@
-{
+﻿{
   "documentTitle": {
-    "cameras": "Estatísticas das Câmeras - Frigate",
-    "storage": "Status de Armazenamento - Frigate",
-    "general": "Estatísticas Gerais - Frigate",
-    "enrichments": "Estatísticas de Enriquecimento - Frigate",
+    "cameras": "Estatísticas das Câmeras - DISt",
+    "storage": "Status de Armazenamento - DISt",
+    "general": "Estatísticas Gerais - DISt",
+    "enrichments": "Estatísticas de Enriquecimento - DISt",
     "logs": {
-      "frigate": "Registros Frigate - Frigate",
-      "go2rtc": "Registros GoRTC - Frigate",
-      "nginx": "Registros Nginx - Frigate"
+      "frigate": "Registros Frigate - DISt",
+      "go2rtc": "Registros GoRTC - DISt",
+      "nginx": "Registros Nginx - DISt"
     }
   },
   "title": "Sistema",

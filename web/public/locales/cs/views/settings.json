@@ -1,18 +1,18 @@
-{
+﻿{
   "documentTitle": {
-    "default": "Nastavení - Frigate",
-    "authentication": "Nastavení ověřování - Frigate",
-    "camera": "Nastavení kamery - Frigate",
-    "classification": "Nastavení klasifikace - Frigate",
-    "notifications": "Nastavení notifikací - Frigate",
-    "masksAndZones": "Editor masky a zón - Frigate",
-    "motionTuner": "Ladění detekce pohybu - Frigate",
-    "object": "Ladění - Frigate",
-    "general": "Nastavení rozhraní - Frigate",
-    "frigatePlus": "Frigate+ nastavení - Frigate",
-    "enrichments": "Nastavení obohacení - Frigate",
-    "cameraManagement": "Správa kamer - Frigate",
-    "cameraReview": "Nastavení kontroly kamery - Frigate"
+    "default": "Nastavení - DISt",
+    "authentication": "Nastavení ověřování - DISt",
+    "camera": "Nastavení kamery - DISt",
+    "classification": "Nastavení klasifikace - DISt",
+    "notifications": "Nastavení notifikací - DISt",
+    "masksAndZones": "Editor masky a zón - DISt",
+    "motionTuner": "Ladění detekce pohybu - DISt",
+    "object": "Ladění - DISt",
+    "general": "Nastavení rozhraní - DISt",
+    "frigatePlus": "Frigate+ nastavení - DISt",
+    "enrichments": "Nastavení obohacení - DISt",
+    "cameraManagement": "Správa kamer - DISt",
+    "cameraReview": "Nastavení kontroly kamery - DISt"
   },
   "frigatePlus": {
     "toast": {
@@ -169,7 +169,7 @@
       },
       "add": "Přidat Zónu",
       "edit": "Upravit Zónu",
-      "documentTitle": "Upravit Zónu - Frigate",
+      "documentTitle": "Upravit Zónu - DISt",
       "clickDrawPolygon": "Klikněte pro kreslení polygonu na obrázku.",
       "point_one": "{{count}} bod",
       "point_few": "{{count}} body",
@@ -185,7 +185,7 @@
         "title": "Maska detekce pohybu pokrývá {{polygonArea}}% záběru kamery. Příliš velké masky detekce pohybu nejsou doporučovány.",
         "tips": "Masky detekce pohybu nebrání detekci objektů. Místo toho byste měli použít požadovanou zónu."
       },
-      "documentTitle": "Editovat Masku Detekce pohybu - Frigate",
+      "documentTitle": "Editovat Masku Detekce pohybu - DISt",
       "desc": {
         "title": "Masky detekce pohybu slouží k zabránění nežádoucím typům pohybu ve spuštění detekce. Příliš rozsáhlé maskování však může ztížit sledování objektů.",
         "documentation": "Dokumentace"
@@ -268,7 +268,7 @@
     },
     "objectMasks": {
       "label": "Masky Objektu",
-      "documentTitle": "Upravit Masku Objektu - Frigate",
+      "documentTitle": "Upravit Masku Objektu - DISt",
       "desc": {
         "documentation": "Dokumentace",
         "title": "Masky filtrování objektů slouží k odfiltrování falešných detekcí daného typu objektu na základě jeho umístění."

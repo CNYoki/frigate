@@ -1,4 +1,4 @@
-{
+﻿{
   "imageEntry": {
     "dropInstructions": "Přetáhněte obrázek sem, nebo klikněte na výběr",
     "maxSize": "Maximální velikost: {{size}}MB",
@@ -46,7 +46,7 @@
     "placeholder": "Zadejte název pro tuto kolekci",
     "invalidName": "Neplatné jméno. Jméno můžou obsahovat pouze písmena, čísla, mezery, apostrofy, podtržítka a spojovníky."
   },
-  "documentTitle": "Knihovna obličejů - Frigate",
+  "documentTitle": "Knihovna obličejů - DISt",
   "uploadFaceImage": {
     "title": "Nahrát obrázek obličeje",
     "desc": "Nahrajte obrázek pro skenování tváří a zahrňte jej pro {{pageToggle}}"

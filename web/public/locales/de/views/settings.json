@@ -1,18 +1,18 @@
-{
+﻿{
   "documentTitle": {
-    "default": "Einstellungen - Frigate",
+    "default": "Einstellungen - DISt",
     "authentication": "Authentifizierungseinstellungen – Frigate",
-    "camera": "Kameraeinstellungen - Frigate",
+    "camera": "Kameraeinstellungen - DISt",
     "masksAndZones": "Masken- und Zoneneditor – Frigate",
-    "object": "Debug - Frigate",
-    "general": "UI-Einstellungen - Frigate",
+    "object": "Debug - DISt",
+    "general": "UI-Einstellungen - DISt",
     "frigatePlus": "Frigate+ Einstellungen – Frigate",
     "classification": "Klassifizierungseinstellungen – Frigate",
     "motionTuner": "Bewegungserkennungs-Optimierer – Frigate",
     "notifications": "Benachrichtigungseinstellungen",
-    "enrichments": "Erweiterte Statistiken - Frigate",
-    "cameraManagement": "Kameras verwalten - Frigate",
-    "cameraReview": "Kameraeinstellungen prüfen - Frigate"
+    "enrichments": "Erweiterte Statistiken - DISt",
+    "cameraManagement": "Kameras verwalten - DISt",
+    "cameraReview": "Kameraeinstellungen prüfen - DISt"
   },
   "menu": {
     "ui": "Benutzeroberfläche",
@@ -320,7 +320,7 @@
         "lineCDistance": "Spur C Distanz ({{unit}})"
       },
       "label": "Zonen",
-      "documentTitle": "Zone bearbeiten - Frigate",
+      "documentTitle": "Zone bearbeiten - DISt",
       "add": "Zone hinzufügen",
       "name": {
         "title": "Name",

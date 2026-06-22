@@ -1,4 +1,4 @@
-{
+﻿{
   "camera": "kamera",
   "alerts": "Uyarılar",
   "detections": "Tespitler",
@@ -18,7 +18,7 @@
     "label": "Olaylar"
   },
   "recordings": {
-    "documentTitle": "Kayıtlar - Frigate"
+    "documentTitle": "Kayıtlar - DISt"
   },
   "calendarFilter": {
     "last24Hours": "Son 24 Saat"
@@ -28,7 +28,7 @@
     "button": "Yeni İncelenecek Öğeler Var",
     "label": "Yeni inceleme öğelerini göster"
   },
-  "documentTitle": "İncele - Frigate",
+  "documentTitle": "İncele - DISt",
   "motion": {
     "label": "Hareket",
     "only": "Yalnızca hareket"

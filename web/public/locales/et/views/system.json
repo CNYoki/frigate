@@ -1,8 +1,8 @@
-{
+﻿{
   "documentTitle": {
-    "general": "Üldine statistika - Frigate",
-    "cameras": "Kaamerate statistika - Frigate",
-    "storage": "Andmeruumi statistika - Frigate"
+    "general": "Üldine statistika - DISt",
+    "cameras": "Kaamerate statistika - DISt",
+    "storage": "Andmeruumi statistika - DISt"
   },
   "logs": {
     "download": {

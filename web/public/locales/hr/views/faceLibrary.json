@@ -1,4 +1,4 @@
-{
+﻿{
   "description": {
     "addFace": "Dodaj novu kolekcije u Biblioteku lica učitavanjem prve slike.",
     "placeholder": "Unesi ime za ovu kolekciju",
@@ -33,7 +33,7 @@
     "unknown": "Nepoznato",
     "scoreInfo": "Rezultat je ponderirani prosjek svih rezultata lica, pri čemu su ponderi određeni veličinom lica na svakoj slici."
   },
-  "documentTitle": "Biblioteka lica - Frigate",
+  "documentTitle": "Biblioteka lica - DISt",
   "uploadFaceImage": {
     "title": "Učitaj sliku lica",
     "desc": "Učitaj sliku za skeniranje lica i uključi za {{pageToggle}}"

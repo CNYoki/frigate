@@ -1,6 +1,6 @@
-{
-  "documentTitle": "Uživo - Frigate",
-  "documentTitle.withCamera": "{{camera}} - Uživo - Frigate",
+﻿{
+  "documentTitle": "Uživo - DISt",
+  "documentTitle.withCamera": "{{camera}} - Uživo - DISt",
   "twoWayTalk": {
     "enable": "Omogući dvosmjerni razgovor",
     "disable": "Onemogući dvosmjerni razgovor"

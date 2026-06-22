@@ -1,14 +1,14 @@
-{
+﻿{
   "documentTitle": {
     "logs": {
-      "frigate": "Frigate Günlükleri - Frigate",
-      "go2rtc": "Go2RTC Günlükleri - Frigate",
-      "nginx": "Nginx Günlükleri - Frigate"
+      "frigate": "Frigate Günlükleri - DISt",
+      "go2rtc": "Go2RTC Günlükleri - DISt",
+      "nginx": "Nginx Günlükleri - DISt"
     },
-    "general": "Genel İstatistikler - Frigate",
-    "storage": "Depolama İstatistikleri - Frigate",
-    "cameras": "Kamera İstatistikleri - Frigate",
-    "enrichments": "Zenginleştirme İstatistikleri - Frigate"
+    "general": "Genel İstatistikler - DISt",
+    "storage": "Depolama İstatistikleri - DISt",
+    "cameras": "Kamera İstatistikleri - DISt",
+    "enrichments": "Zenginleştirme İstatistikleri - DISt"
   },
   "metrics": "Sistem metrikleri",
   "general": {

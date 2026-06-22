@@ -1,4 +1,4 @@
-{
+﻿{
   "description": {
     "addFace": "Tambah ke koleksi Pustaka Wajah dengan men-upload gambar pertama anda.",
     "placeholder": "Masukkan Nama untuk koleksi ini",
@@ -13,7 +13,7 @@
     "unknown": "Tidak diketahui",
     "faceDesc": "Detail objek terlacak yang menghasilkan wajah ini"
   },
-  "documentTitle": "Perpustakaan Wajah - Frigate",
+  "documentTitle": "Perpustakaan Wajah - DISt",
   "collections": "Koleksi",
   "createFaceLibrary": {
     "desc": "Buat koleksi baru",

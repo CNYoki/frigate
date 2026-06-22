@@ -1,4 +1,4 @@
-{
+﻿{
   "button": {
     "uploadImage": "Laadi pilt üles"
   },
@@ -8,7 +8,7 @@
     "invalidName": "Vigane nimi. Nimed võivad sisaldada ainult tähti, numbreid, tühikuid, ülakomasid, alakriipse ja sidekriipse.",
     "addFace": "Laadides üles oma esimese pildi saad lisada uue kogumiku Näoteeki."
   },
-  "documentTitle": "Näoteek - Frigate",
+  "documentTitle": "Näoteek - DISt",
   "createFaceLibrary": {
     "new": "Lisa uus nägu"
   },

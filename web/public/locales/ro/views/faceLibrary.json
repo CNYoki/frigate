@@ -1,4 +1,4 @@
-{
+﻿{
   "description": {
     "addFace": "Adaugă o colecție nouă în Biblioteca de fețe încărcând prima ta imagine.",
     "placeholder": "Introduceti un nume pentru aceasta colectie",
@@ -25,7 +25,7 @@
     "new": "Crează o față nouă"
   },
   "collections": "Colecții",
-  "documentTitle": "Bibliotecă fețe - Frigate",
+  "documentTitle": "Bibliotecă fețe - DISt",
   "train": {
     "empty": "Nu există încercări recente de recunoaștere facială",
     "title": "Recunoașteri Recente",

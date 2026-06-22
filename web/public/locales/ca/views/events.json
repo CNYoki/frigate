@@ -1,4 +1,4 @@
-{
+﻿{
   "detected": "detectat",
   "alerts": "Alertes",
   "detections": "Deteccions",
@@ -23,9 +23,9 @@
     "aria": "Seleccionar esdeveniments",
     "noFoundForTimePeriod": "No s'han trobat esdeveniments per aquest període de temps."
   },
-  "documentTitle": "Revisió - Frigate",
+  "documentTitle": "Revisió - DISt",
   "recordings": {
-    "documentTitle": "Enregistraments - Frigate"
+    "documentTitle": "Enregistraments - DISt"
   },
   "calendarFilter": {
     "last24Hours": "Últimes 24 hores"

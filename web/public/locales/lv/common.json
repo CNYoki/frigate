@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilForTime": "Līdz {{time}}",
     "today": "Šodien",
@@ -289,12 +289,12 @@
     "more": "Vairāk lapas"
   },
   "accessDenied": {
-    "documentTitle": "Piekļuve liegta - Frigate",
+    "documentTitle": "Piekļuve liegta - DISt",
     "title": "Piekļuve liegta",
     "desc": "Jums nav atļaujas skatīt šo lapu."
   },
   "notFound": {
-    "documentTitle": "Nav atrasts - Frigate",
+    "documentTitle": "Nav atrasts - DISt",
     "title": "404",
     "desc": "Lapa nav atrasta"
   },

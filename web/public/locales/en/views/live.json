@@ -1,6 +1,6 @@
-{
-  "documentTitle": "Live - Frigate",
-  "documentTitle.withCamera": "{{camera}} - Live - Frigate",
+﻿{
+  "documentTitle": "Live - DISt",
+  "documentTitle.withCamera": "{{camera}} - Live - DISt",
   "lowBandwidthMode": "Low-bandwidth Mode",
   "twoWayTalk": {
     "enable": "Enable Two Way Talk",

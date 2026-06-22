@@ -1,6 +1,6 @@
-{
-  "documentTitle.withCamera": "{{camera}} - Langsung - Frigate",
-  "documentTitle": "Langsung - Frigate",
+﻿{
+  "documentTitle.withCamera": "{{camera}} - Langsung - DISt",
+  "documentTitle": "Langsung - DISt",
   "lowBandwidthMode": "Mode Bandwith-Rendah",
   "twoWayTalk": {
     "enable": "Nyalakan Komunikasi dua arah",

@@ -1,4 +1,4 @@
-{
+﻿{
   "camera": "Камера",
   "selected_one": "{{count}} відібраний",
   "selected_other": "{{count}} відібраний",
@@ -25,9 +25,9 @@
     "aria": "Выбрати події",
     "noFoundForTimePeriod": "За цей період подій не знайдено."
   },
-  "documentTitle": "Перегляд подiя - Frigate",
+  "documentTitle": "Перегляд подiя - DISt",
   "recordings": {
-    "documentTitle": "Записи - Frigate"
+    "documentTitle": "Записи - DISt"
   },
   "calendarFilter": {
     "last24Hours": "Останні 24 години"

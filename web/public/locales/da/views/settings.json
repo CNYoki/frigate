@@ -1,17 +1,17 @@
-{
+﻿{
   "documentTitle": {
-    "default": "Indstillinger - Frigate",
-    "authentication": "Bruger Indstillinger - Frigate",
-    "camera": "Kamera indstillinger - Frigate",
-    "object": "Debug - Frigate",
-    "cameraManagement": "Administrér kameraer - Frigate",
-    "cameraReview": "Indstillinger for kameragennemgang - Frigate",
-    "enrichments": "Indstillinger for berigelser - Frigate",
-    "masksAndZones": "Maske- og zoneeditor - Frigate",
-    "motionTuner": "Bevægelsesjustering - Frigate",
-    "general": "Brugergrænsefladeindstillinger - Frigate",
-    "frigatePlus": "Frigate+ Indstillinger - Frigate",
-    "notifications": "Notifikations indstillinger - Frigate"
+    "default": "Indstillinger - DISt",
+    "authentication": "Bruger Indstillinger - DISt",
+    "camera": "Kamera indstillinger - DISt",
+    "object": "Debug - DISt",
+    "cameraManagement": "Administrér kameraer - DISt",
+    "cameraReview": "Indstillinger for kameragennemgang - DISt",
+    "enrichments": "Indstillinger for berigelser - DISt",
+    "masksAndZones": "Maske- og zoneeditor - DISt",
+    "motionTuner": "Bevægelsesjustering - DISt",
+    "general": "Brugergrænsefladeindstillinger - DISt",
+    "frigatePlus": "Frigate+ Indstillinger - DISt",
+    "notifications": "Notifikations indstillinger - DISt"
   },
   "menu": {
     "ui": "Brugergrænseflade"

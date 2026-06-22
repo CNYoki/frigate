@@ -1,4 +1,4 @@
-{
+﻿{
   "description": {
     "addFace": "Ajoutez une nouvelle collection à la bibliothèque de visages en téléversant votre première image.",
     "placeholder": "Saisissez un nom pour cette collection.",
@@ -15,7 +15,7 @@
     "scoreInfo": "Le score du sous-libellé correspond au score pondéré de tous les scores de confiance des visages reconnus. Il est donc possible qu'il ne corresponde pas au score affiché sur l'instantané.",
     "unknown": "Inconnu"
   },
-  "documentTitle": "Bibliothèque de visages - Frigate",
+  "documentTitle": "Bibliothèque de visages - DISt",
   "uploadFaceImage": {
     "title": "Téléverser l'image du visage",
     "desc": "Téléversez une image pour rechercher des visages et l'inclure dans {{pageToggle}}."

@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilForTime": "直到 {{time}}",
     "untilRestart": "直到重新啟動",
@@ -259,7 +259,7 @@
   },
   "accessDenied": {
     "title": "拒絕存取",
-    "documentTitle": "拒絕存取 - Frigate",
+    "documentTitle": "拒絕存取 - DISt",
     "desc": "你無權查看此頁面。"
   },
   "selectItem": "選擇 {{item}}",
@@ -274,7 +274,7 @@
     "copyUrlToClipboard": "已複製 URL 到剪貼簿。"
   },
   "notFound": {
-    "documentTitle": "找不到頁面 - Frigate",
+    "documentTitle": "找不到頁面 - DISt",
     "desc": "找不到頁面",
     "title": "404"
   },

@@ -1,4 +1,4 @@
-{
+﻿{
   "lowBandwidthMode": "Modus für geringe Bandbreite",
   "twoWayTalk": {
     "enable": "Gegensprechfunktion aktivieren",
@@ -51,8 +51,8 @@
       }
     }
   },
-  "documentTitle": "Live - Frigate",
-  "documentTitle.withCamera": "{{camera}} - Live - Frigate",
+  "documentTitle": "Live - DISt",
+  "documentTitle.withCamera": "{{camera}} - Live - DISt",
   "muteCameras": {
     "disable": "Stumm aller Kameras aufheben",
     "enable": "Alle Kameras auf stumm"

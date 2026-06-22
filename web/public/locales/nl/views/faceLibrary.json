@@ -1,4 +1,4 @@
-{
+﻿{
   "selectItem": "Selecteer {{item}}",
   "details": {
     "timestamp": "Tijdstempel",
@@ -10,7 +10,7 @@
     "subLabelScore": "Score voor sublabel",
     "unknown": "Onbekend"
   },
-  "documentTitle": "Gezichtsbibliotheek - Frigate",
+  "documentTitle": "Gezichtsbibliotheek - DISt",
   "description": {
     "placeholder": "Voer een naam in voor deze verzameling",
     "addFace": "Voeg een nieuwe collectie toe aan de gezichtenbibliotheek door je eerste afbeelding te uploaden.",

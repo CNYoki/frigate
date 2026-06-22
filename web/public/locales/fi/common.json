@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilRestart": "Kunnes uudelleenkäynnistyy",
     "ago": "{{timeAgo}} sitten",
@@ -57,7 +57,7 @@
     "label": "sivutus"
   },
   "accessDenied": {
-    "documentTitle": "Pääsy kielletty - Frigate",
+    "documentTitle": "Pääsy kielletty - DISt",
     "title": "Pääsy kielletty",
     "desc": "Sinulla ei ole oikeuksia tarkastella tätä sivua."
   },
@@ -68,7 +68,7 @@
     "title": "Rooli"
   },
   "notFound": {
-    "documentTitle": "Ei löytynyt - Frigate",
+    "documentTitle": "Ei löytynyt - DISt",
     "title": "404",
     "desc": "Sivua ei löytynyt"
   },

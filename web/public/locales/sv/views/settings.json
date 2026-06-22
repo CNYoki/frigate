@@ -1,18 +1,18 @@
-{
+﻿{
   "documentTitle": {
-    "camera": "Kamerainställningar - Frigate",
-    "default": "Inställningar - Frigate",
-    "general": "Användargränssnitt Inställningar - Frigate",
-    "authentication": "Autentiseringsinställningar - Frigate",
-    "classification": "Klassificeringsinställningar - Frigate",
-    "masksAndZones": "Maskerings- och zonverktyg - Frigate",
-    "enrichments": "Förbättringsinställningar - Frigate",
-    "frigatePlus": "Frigate+ Inställningar - Frigate",
-    "notifications": "Notifikations Inställningar - Frigate",
-    "motionTuner": "Rörelse inställning - Frigate",
-    "object": "Felsöka - Frigate",
-    "cameraManagement": "Hantera kameror - Frigate",
-    "cameraReview": "Kameragranskningsinställningar - Frigate"
+    "camera": "Kamerainställningar - DISt",
+    "default": "Inställningar - DISt",
+    "general": "Användargränssnitt Inställningar - DISt",
+    "authentication": "Autentiseringsinställningar - DISt",
+    "classification": "Klassificeringsinställningar - DISt",
+    "masksAndZones": "Maskerings- och zonverktyg - DISt",
+    "enrichments": "Förbättringsinställningar - DISt",
+    "frigatePlus": "Frigate+ Inställningar - DISt",
+    "notifications": "Notifikations Inställningar - DISt",
+    "motionTuner": "Rörelse inställning - DISt",
+    "object": "Felsöka - DISt",
+    "cameraManagement": "Hantera kameror - DISt",
+    "cameraReview": "Kameragranskningsinställningar - DISt"
   },
   "general": {
     "title": "UI inställningar",
@@ -303,7 +303,7 @@
     },
     "zones": {
       "label": "Zoner",
-      "documentTitle": "Redigera zon - Frigate",
+      "documentTitle": "Redigera zon - DISt",
       "desc": {
         "documentation": "Dokumentation",
         "title": "Zoner låter dig definiera ett specifikt område av bilden så att du kan avgöra om ett objekt befinner sig inom ett visst område eller inte."
@@ -355,7 +355,7 @@
     },
     "motionMasks": {
       "label": "Rörelsemask",
-      "documentTitle": "Redigera rörelsemask - Frigate",
+      "documentTitle": "Redigera rörelsemask - DISt",
       "desc": {
         "title": "Rörelsemasker används för att förhindra att oönskade typer av rörelser utlöser detektering. Övermaskering gör det svårare att spåra objekt.",
         "documentation": "Dokumentation"
@@ -381,7 +381,7 @@
     },
     "objectMasks": {
       "label": "Objektmasker",
-      "documentTitle": "Redigera objektmask - Frigate",
+      "documentTitle": "Redigera objektmask - DISt",
       "point_one": "{{count}} poäng",
       "point_other": "{{count}} poäng",
       "desc": {

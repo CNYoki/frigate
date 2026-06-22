@@ -1,4 +1,4 @@
-{
+﻿{
   "saveOnly": "केवल सहेजें",
   "saveAndRestart": "सहेजें और पुनः प्रारंभ करें",
   "configEditor": "विन्यास संपादक",
@@ -11,5 +11,5 @@
       "copyToClipboard": "विन्यास क्लिपबोर्ड पर कॉपी कर लिया गया है।"
     }
   },
-  "documentTitle": "विन्यास संपादक - Frigate"
+  "documentTitle": "विन्यास संपादक - DISt"
 }

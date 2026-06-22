@@ -1,4 +1,4 @@
-{
+﻿{
   "readTheDocumentation": "문서 읽기",
   "time": {
     "untilForTime": "{{time}}까지",
@@ -71,12 +71,12 @@
   },
   "notFound": {
     "title": "404",
-    "documentTitle": "찾을 수 없음 - Frigate",
+    "documentTitle": "찾을 수 없음 - DISt",
     "desc": "페이지 찾을 수 없음"
   },
   "accessDenied": {
     "title": "접근 거부",
-    "documentTitle": "접근 거부 - Frigate",
+    "documentTitle": "접근 거부 - DISt",
     "desc": "이 페이지 접근 권한이 없습니다."
   },
   "menu": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "camera": "Kamera",
   "empty": {
     "alert": "Det er ingen varsler å inspisere",
@@ -27,9 +27,9 @@
   },
   "allCameras": "Alle kameraer",
   "timeline.aria": "Velg tidslinje",
-  "documentTitle": "Inspeksjon - Frigate",
+  "documentTitle": "Inspeksjon - DISt",
   "recordings": {
-    "documentTitle": "Opptak - Frigate"
+    "documentTitle": "Opptak - DISt"
   },
   "calendarFilter": {
     "last24Hours": "Siste 24 timer"

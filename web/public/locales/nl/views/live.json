@@ -1,4 +1,4 @@
-{
+﻿{
   "lowBandwidthMode": "Modus voor lage bandbreedte",
   "twoWayTalk": {
     "enable": "Tweerichtingsgesprek inschakelen",
@@ -97,8 +97,8 @@
   },
   "notifications": "Meldingen",
   "audio": "Geluid",
-  "documentTitle": "Live - Frigate",
-  "documentTitle.withCamera": "{{camera}} - Live - Frigate",
+  "documentTitle": "Live - DISt",
+  "documentTitle.withCamera": "{{camera}} - Live - DISt",
   "autotracking": {
     "enable": "Automatisch volgen inschakelen",
     "disable": "Automatisch volgen uitschakelen"

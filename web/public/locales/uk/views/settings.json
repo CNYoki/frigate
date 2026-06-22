@@ -1,4 +1,4 @@
-{
+﻿{
   "notification": {
     "notificationSettings": {
       "documentation": "Прочитати документацію",
@@ -561,8 +561,8 @@
     "general": "Основна Статус – Frigate",
     "frigatePlus": "Налаштування Frigate+ – Frigate",
     "enrichments": "Налаштуваннях збагачення – Frigate",
-    "cameraManagement": "Керування камерами - Frigate",
-    "cameraReview": "Налаштування перегляду камери - Frigate"
+    "cameraManagement": "Керування камерами - DISt",
+    "cameraReview": "Налаштування перегляду камери - DISt"
   },
   "menu": {
     "ui": "Інтерфейс користувача",

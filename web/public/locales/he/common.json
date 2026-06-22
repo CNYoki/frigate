@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "justNow": "כעת",
     "untilForRestart": "עד לאתחול של Frigate.",
@@ -281,10 +281,10 @@
   "accessDenied": {
     "title": "הגישה נדחתה",
     "desc": "אין לך הרשאה לצפות בדף הזה.",
-    "documentTitle": "גישה נדחתה - Frigate"
+    "documentTitle": "גישה נדחתה - DISt"
   },
   "notFound": {
-    "documentTitle": "לא נמצא - Frigate",
+    "documentTitle": "לא נמצא - DISt",
     "title": "404",
     "desc": "דף לא נמצא"
   },

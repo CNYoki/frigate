@@ -1,4 +1,4 @@
-{
+﻿{
   "copyConfig": "Kopiera konfiguration",
   "saveAndRestart": "Spara & Starta om",
   "saveOnly": "Spara",
@@ -10,7 +10,7 @@
       "savingError": "Problem att spara konfiguration"
     }
   },
-  "documentTitle": "Ändra konfiguration - Frigate",
+  "documentTitle": "Ändra konfiguration - DISt",
   "configEditor": "Ändra konfiguration",
   "confirm": "Avsluta utan att spara?",
   "safeConfigEditor": "Konfigurationsredigeraren (felsäkert läge)",

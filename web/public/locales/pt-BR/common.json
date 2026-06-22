@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilForTime": "Até {{time}}",
     "untilForRestart": "Até o Frigate reiniciar.",
@@ -270,12 +270,12 @@
     "more": "Mais páginas"
   },
   "accessDenied": {
-    "documentTitle": "Acesso Negado - Frigate",
+    "documentTitle": "Acesso Negado - DISt",
     "title": "Acesso Negado",
     "desc": "Você não possui permissão para visualizar essa página."
   },
   "notFound": {
-    "documentTitle": "Não Encontrado - Frigate",
+    "documentTitle": "Não Encontrado - DISt",
     "title": "404",
     "desc": "Página não encontrada"
   },

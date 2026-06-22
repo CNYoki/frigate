@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "lastWeek": "Geçen Hafta",
     "thisWeek": "Bu Hafta",
@@ -237,7 +237,7 @@
     "other": "Diğer"
   },
   "notFound": {
-    "documentTitle": "Bulunamadı - Frigate",
+    "documentTitle": "Bulunamadı - DISt",
     "desc": "Sayfa bulunamadı",
     "title": "404"
   },
@@ -274,7 +274,7 @@
   "accessDenied": {
     "title": "Erişim Reddedildi",
     "desc": "Bu sayfayı görüntüleme yetkiniz yok.",
-    "documentTitle": "Erişim Reddedildi - Frigate"
+    "documentTitle": "Erişim Reddedildi - DISt"
   },
   "toast": {
     "copyUrlToClipboard": "URL panoya kopyalandı.",

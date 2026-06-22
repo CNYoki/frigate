@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilForTime": "Până la {{time}}",
     "untilForRestart": "Până la repornirea Frigate.",
@@ -284,10 +284,10 @@
   "accessDenied": {
     "title": "Acces refuzat",
     "desc": "Nu ai permisiunea să vizualizezi această pagină.",
-    "documentTitle": "Acces refuzat - Frigate"
+    "documentTitle": "Acces refuzat - DISt"
   },
   "notFound": {
-    "documentTitle": "Nu a fost găsit - Frigate",
+    "documentTitle": "Nu a fost găsit - DISt",
     "title": "404",
     "desc": "Pagină negăsită"
   },

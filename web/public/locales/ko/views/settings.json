@@ -1,4 +1,4 @@
-{
+﻿{
   "triggers": {
     "dialog": {
       "form": {
@@ -22,18 +22,18 @@
     }
   },
   "documentTitle": {
-    "default": "설정 - Frigate",
-    "authentication": "인증 설정 - Frigate",
-    "camera": "카메라 설정 - Frigate",
-    "enrichments": "고급 설정 - Frigate",
-    "masksAndZones": "마스크와 구역 편집기 - Frigate",
-    "motionTuner": "움직임 감지 조정 - Frigate",
-    "object": "디버그 - Frigate",
-    "general": "일반 설정 - Frigate",
-    "frigatePlus": "Frigate+ 설정 - Frigate",
-    "notifications": "알림 설정 - Frigate",
-    "cameraManagement": "카메라 관리 - Frigate",
-    "cameraReview": "카메라 다시보기 설정 - Frigate"
+    "default": "설정 - DISt",
+    "authentication": "인증 설정 - DISt",
+    "camera": "카메라 설정 - DISt",
+    "enrichments": "고급 설정 - DISt",
+    "masksAndZones": "마스크와 구역 편집기 - DISt",
+    "motionTuner": "움직임 감지 조정 - DISt",
+    "object": "디버그 - DISt",
+    "general": "일반 설정 - DISt",
+    "frigatePlus": "Frigate+ 설정 - DISt",
+    "notifications": "알림 설정 - DISt",
+    "cameraManagement": "카메라 관리 - DISt",
+    "cameraReview": "카메라 다시보기 설정 - DISt"
   },
   "users": {
     "table": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "documentTitle": {
     "default": "تنظیمات - فریگیت",
     "authentication": "تنظیمات احراز هویت - فریگیت",
@@ -6,12 +6,12 @@
     "cameraManagement": "مدیریت دوربین ها - فریگیت",
     "cameraReview": "بازبینی تنظیمات دوربین - فریگیت",
     "masksAndZones": "ویرایشگر ماسک و منطقه - فریگیت",
-    "enrichments": "تنظیمات غنی‌سازی‌ها - Frigate",
-    "motionTuner": "تنظیم‌کنندهٔ حرکت - Frigate",
-    "object": "اشکال‌زدایی - Frigate",
+    "enrichments": "تنظیمات غنی‌سازی‌ها - DISt",
+    "motionTuner": "تنظیم‌کنندهٔ حرکت - DISt",
+    "object": "اشکال‌زدایی - DISt",
     "general": "تنظیمات رابط کاربری - فریگیت",
-    "frigatePlus": "تنظیمات Frigate+ - Frigate",
-    "notifications": "تنظیمات اعلان‌ها - Frigate"
+    "frigatePlus": "تنظیمات Frigate+ - DISt",
+    "notifications": "تنظیمات اعلان‌ها - DISt"
   },
   "menu": {
     "ui": "رابط کاربری",
@@ -512,7 +512,7 @@
         "success": "ناحیه ( {{zoneName}}) ذخیره شد."
       },
       "label": "ناحیه‌ها",
-      "documentTitle": "ویرایش ناحیه - Frigate",
+      "documentTitle": "ویرایش ناحیه - DISt",
       "desc": {
         "title": "ناحیه‌ها به شما امکان تعریف یک ناحیهٔ مشخص از فریم را می‌دهند تا بتوانید تعیین کنید که آیا یک شیء در یک ناحیهٔ خاص قرار دارد یا خیر.",
         "documentation": "مستندات"
@@ -547,7 +547,7 @@
           "noName": "ماسک حرکت ذخیره شد."
         }
       },
-      "documentTitle": "ویرایش ماسک حرکت - Frigate",
+      "documentTitle": "ویرایش ماسک حرکت - DISt",
       "desc": {
         "title": "ماسک‌های حرکت برای جلوگیری از فعال‌سازی تشخیص توسط انواع ناخواستهٔ حرکت استفاده می‌شوند. ماسک‌گذاری بیش‌ازحد ردیابی اشیا را دشوارتر می‌کند.",
         "documentation": "مستندات"
@@ -571,7 +571,7 @@
         }
       },
       "label": "ماسک‌های شیء",
-      "documentTitle": "ویرایش ماسک شیء - Frigate",
+      "documentTitle": "ویرایش ماسک شیء - DISt",
       "objects": {
         "title": "اشیا",
         "desc": "نوع شیئی که به این ماسک شیء مربوط می‌شود.",

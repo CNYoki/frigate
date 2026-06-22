@@ -1,4 +1,4 @@
-{
+﻿{
   "motion": {
     "label": "Judesys",
     "only": "Tik judesys"
@@ -28,9 +28,9 @@
       "description": "Peržiūros gali būti kuriamos tik tada kai kamerai yra aktyvuoti įrašymai."
     }
   },
-  "documentTitle": "Peržiūros - Frigate",
+  "documentTitle": "Peržiūros - DISt",
   "recordings": {
-    "documentTitle": "Įrašai - Frigate"
+    "documentTitle": "Įrašai - DISt"
   },
   "markAsReviewed": "Pažymėti kaip peržiūrėtą",
   "markTheseItemsAsReviewed": "Pažymėti šiuos įrašus kaip peržiūrėtus",

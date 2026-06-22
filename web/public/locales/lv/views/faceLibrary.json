@@ -1,4 +1,4 @@
-{
+﻿{
   "description": {
     "addFace": "Pievienojiet savai seju bibliotēkai jaunu kolekciju, augšupielādējot savu pirmo attēlu.",
     "placeholder": "Ievadi kolekcijas nosaukumu",
@@ -10,7 +10,7 @@
     "unknown": "Nezināms",
     "scoreInfo": "Rezultāts ir visu seju rezultāta vidējais, svērts pēc sejas izmēra katrā attēlā."
   },
-  "documentTitle": "Seju bibliotēka - Frigate",
+  "documentTitle": "Seju bibliotēka - DISt",
   "uploadFaceImage": {
     "title": "Augšupielādējiet sejas attēlu",
     "desc": "Augšupielādējiet attēlu, lai skenētu sejas un iekļautu to lapā {{pageToggle}}"

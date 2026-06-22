@@ -1,4 +1,4 @@
-{
+﻿{
   "alerts": "Alerts",
   "detections": "Detections",
   "motion": {
@@ -41,9 +41,9 @@
     "trackedPoint": "Tracked point",
     "clickToSeek": "Click to seek to this time"
   },
-  "documentTitle": "Review - Frigate",
+  "documentTitle": "Review - DISt",
   "recordings": {
-    "documentTitle": "Recordings - Frigate"
+    "documentTitle": "Recordings - DISt"
   },
   "calendarFilter": {
     "last24Hours": "Last 24 Hours"

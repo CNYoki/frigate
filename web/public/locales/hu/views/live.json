@@ -1,11 +1,11 @@
-{
+﻿{
   "twoWayTalk": {
     "enable": "Kétirányú kommunikáció engedélyezése",
     "disable": "Kétirányú kommunikáció tiltása"
   },
-  "documentTitle": "Élő - Frigate",
+  "documentTitle": "Élő - DISt",
   "lowBandwidthMode": "Alacsony felbontású mód",
-  "documentTitle.withCamera": "{{camera}} - Élő - Frigate",
+  "documentTitle.withCamera": "{{camera}} - Élő - DISt",
   "cameraAudio": {
     "disable": "Kamera hangjának kikapcsolása",
     "enable": "Kamera hangjának bekapcsolása"

@@ -1,4 +1,4 @@
-{
+﻿{
   "generativeAI": "Inteligencia Artificial Generativa",
   "exploreIsUnavailable": {
     "title": "Explorar no está disponible",
@@ -114,7 +114,7 @@
       "label": "Título"
     }
   },
-  "documentTitle": "Explorar - Frigate",
+  "documentTitle": "Explorar - DISt",
   "trackedObjectDetails": "Detalles del objeto rastreado",
   "type": {
     "snapshot": "captura instantánea",

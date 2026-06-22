@@ -1,4 +1,4 @@
-{
+﻿{
   "toast": {
     "error": {
       "savingError": "کنفیگریشن محفوظ کرنے میں خرابی"
@@ -7,7 +7,7 @@
       "copyToClipboard": "کنفیگ کلپ بورڈ پر کاپی ہو گیا۔"
     }
   },
-  "documentTitle": "کنفیگریشن ایڈیٹر - Frigate",
+  "documentTitle": "کنفیگریشن ایڈیٹر - DISt",
   "configEditor": "کنفیگریشن ایڈیٹر",
   "copyConfig": "کنفیگریشن نقل کریں",
   "saveAndRestart": "محفوظ کریں اور دوبارہ شروع کریں",

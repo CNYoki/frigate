@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "untilForTime": "تا {{time}}",
     "untilForRestart": "تا زمانی که فریگیت دوباره شروع به کار کند.",
@@ -280,12 +280,12 @@
     "more": "صفحه‌های بیشتر"
   },
   "accessDenied": {
-    "documentTitle": "دسترسی ممنوع - Frigate",
+    "documentTitle": "دسترسی ممنوع - DISt",
     "title": "دسترسی ممنوع",
     "desc": "شما اجازهٔ مشاهدهٔ این صفحه را ندارید."
   },
   "notFound": {
-    "documentTitle": "یافت نشد - Frigate",
+    "documentTitle": "یافت نشد - DISt",
     "title": "۴۰۴",
     "desc": "صفحه پیدا نشد"
   },

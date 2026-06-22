@@ -1,4 +1,4 @@
-{
+﻿{
   "time": {
     "year_one": "{{time}}рік",
     "year_few": "{{time}}роки",
@@ -281,12 +281,12 @@
     "label": "Пагінація"
   },
   "accessDenied": {
-    "documentTitle": "Доступ заборонений - Frigate",
+    "documentTitle": "Доступ заборонений - DISt",
     "title": "Доступ заборонений",
     "desc": "У вас немає дозволу на перегляд цієї сторінки."
   },
   "notFound": {
-    "documentTitle": "Не знайдено - Frigate",
+    "documentTitle": "Не знайдено - DISt",
     "desc": "Сторінка не знайдена",
     "title": "404"
   },

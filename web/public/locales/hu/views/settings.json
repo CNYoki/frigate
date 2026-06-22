@@ -1,17 +1,17 @@
-{
+﻿{
   "documentTitle": {
-    "default": "Beállítások - Frigate",
-    "authentication": "Hitelesítési beállítások - Frigate",
-    "camera": "Kamera beállítások - Frigate",
-    "classification": "Osztályozási beállítások - Frigate",
-    "masksAndZones": "Maszk és zónaszerkesztő - Frigate",
-    "object": "Hibakeresés - Frigate",
-    "general": "Felhasználói felület beállításai - Frigate",
-    "frigatePlus": "Frigate+ beállítások - Frigate",
-    "notifications": "Értesítések beállítása - Frigate",
-    "motionTuner": "Mozgás Hangoló - Frigate",
-    "enrichments": "Kiegészítés Beállítások - Frigate",
-    "cameraManagement": "Kamerák kezelése - Frigate",
+    "default": "Beállítások - DISt",
+    "authentication": "Hitelesítési beállítások - DISt",
+    "camera": "Kamera beállítások - DISt",
+    "classification": "Osztályozási beállítások - DISt",
+    "masksAndZones": "Maszk és zónaszerkesztő - DISt",
+    "object": "Hibakeresés - DISt",
+    "general": "Felhasználói felület beállításai - DISt",
+    "frigatePlus": "Frigate+ beállítások - DISt",
+    "notifications": "Értesítések beállítása - DISt",
+    "motionTuner": "Mozgás Hangoló - DISt",
+    "enrichments": "Kiegészítés Beállítások - DISt",
+    "cameraManagement": "Kamerák kezelése - DISt",
     "cameraReview": "Kamera beállítások áttekintése – Frigate"
   },
   "menu": {
@@ -363,7 +363,7 @@
       },
       "edit": "Zóne Módosítása",
       "label": "Zónák",
-      "documentTitle": "Zóna Módosítása - Frigate",
+      "documentTitle": "Zóna Módosítása - DISt",
       "name": {
         "title": "Név",
         "tips": "A névnek legalább 2 karakterből kell állnia és nem a kamera neve vagy egy másik zónáé.",
@@ -417,7 +417,7 @@
         "documentation": "Dokumentáció",
         "title": "Az objektumszűrő maszkokat arra használják, hogy hely alapján kiszűrjék a téves egyezéseket adott objektumtípus esetén."
       },
-      "documentTitle": "Tárgymaszk módosítása - Frigate",
+      "documentTitle": "Tárgymaszk módosítása - DISt",
       "objects": {
         "title": "Tárgyak",
         "allObjectTypes": "Minden tárgytípus",
@@ -499,7 +499,7 @@
         "title": "A mozgásmaszk a kamera képkockájának {{polygonArea}}%-át fedi le. Nagy mozgásmaszkok használata nem ajánlott.",
         "tips": "A mozgásmaszkok nem akadályozzák meg az objektumok észlelését. Ehelyett ajánlott kötelező zónát használni."
       },
-      "documentTitle": "Mozgási Maszk Módosítása - Frigate",
+      "documentTitle": "Mozgási Maszk Módosítása - DISt",
       "add": "Új Mozgási Maszk",
       "point_one": "{{count}} pont",
       "point_other": "{{count}} pont",

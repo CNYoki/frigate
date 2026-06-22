@@ -1,13 +1,13 @@
-{
+﻿{
   "documentTitle": {
-    "cameras": "카메라 통계 - Frigate",
-    "storage": "저장소 통계 - Frigate",
-    "general": "기본 통계 - Frigate",
-    "enrichments": "고급 통계 - Frigate",
+    "cameras": "카메라 통계 - DISt",
+    "storage": "저장소 통계 - DISt",
+    "general": "기본 통계 - DISt",
+    "enrichments": "고급 통계 - DISt",
     "logs": {
       "frigate": "Frigate 로그 -Frigate",
-      "go2rtc": "Go2RTC 로그 - Frigate",
-      "nginx": "Nginx 로그 - Frigate"
+      "go2rtc": "Go2RTC 로그 - DISt",
+      "nginx": "Nginx 로그 - DISt"
     }
   },
   "title": "시스템",

@@ -1,13 +1,13 @@
-{
+﻿{
   "documentTitle": {
-    "cameras": "摄像头统计 - Frigate",
-    "storage": "存储统计 - Frigate",
-    "general": "常规统计 - Frigate",
-    "enrichments": "增强功能统计 - Frigate",
+    "cameras": "摄像头统计 - DISt",
+    "storage": "存储统计 - DISt",
+    "general": "常规统计 - DISt",
+    "enrichments": "增强功能统计 - DISt",
     "logs": {
-      "frigate": "Frigate 日志 - Frigate",
-      "go2rtc": "Go2RTC 日志 - Frigate",
-      "nginx": "Nginx 日志 - Frigate"
+      "frigate": "Frigate 日志 - DISt",
+      "go2rtc": "Go2RTC 日志 - DISt",
+      "nginx": "Nginx 日志 - DISt"
     }
   },
   "title": "系统",

@@ -1,4 +1,4 @@
-{
+﻿{
   "camera": "Tiếng máy ảnh",
   "alerts": "Cảnh báo",
   "detections": "Phát hiện",
@@ -9,7 +9,7 @@
   "allCameras": "Tất cả Camera",
   "detected": "Đã phát hiện",
   "recordings": {
-    "documentTitle": "Bản ghi - Frigate"
+    "documentTitle": "Bản ghi - DISt"
   },
   "events": {
     "aria": "Chọn sự kiện",
@@ -25,7 +25,7 @@
     "motion": "Không tìm thấy dữ liệu chuyển động"
   },
   "timeline": "Dòng thời gian",
-  "documentTitle": "Xem lại - Frigate",
+  "documentTitle": "Xem lại - DISt",
   "calendarFilter": {
     "last24Hours": "24 giờ qua"
   },

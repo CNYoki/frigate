@@ -1,4 +1,4 @@
-{
+﻿{
   "alerts": "Peringatan",
   "detections": "Deteksi",
   "motion": {
@@ -41,9 +41,9 @@
     "trackedPoint": "Titik terlacak",
     "clickToSeek": "Klik untuk mencari waktu ini"
   },
-  "documentTitle": "Tinjauan - Frigate",
+  "documentTitle": "Tinjauan - DISt",
   "recordings": {
-    "documentTitle": "Rekaman - Frigate"
+    "documentTitle": "Rekaman - DISt"
   },
   "calendarFilter": {
     "last24Hours": "24 Jam Terakhir"

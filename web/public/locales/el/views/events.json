@@ -1,4 +1,4 @@
-{
+﻿{
   "alerts": "Ειδοποιήσεις",
   "detections": "Εντοπισμοί",
   "motion": {
@@ -24,9 +24,9 @@
   "selected_other": "{{count}} επελεγμένα",
   "camera": "Κάμερα",
   "detected": "ανιχνέυτηκε",
-  "documentTitle": "Προεσκόπιση - Frigate",
+  "documentTitle": "Προεσκόπιση - DISt",
   "recordings": {
-    "documentTitle": "Καταγραφές - Frigate"
+    "documentTitle": "Καταγραφές - DISt"
   },
   "calendarFilter": {
     "last24Hours": "Τελευταίες 24 Ώρες"

@@ -1,4 +1,4 @@
-{
+﻿{
   "general": {
     "hardwareInfo": {
       "gpuInfo": {
@@ -62,14 +62,14 @@
   },
   "documentTitle": {
     "cameras": "Kamerastatistiken – Frigate",
-    "storage": "Speicherstatistiken - Frigate",
-    "general": "Allgemeine Statistiken - Frigate",
+    "storage": "Speicherstatistiken - DISt",
+    "general": "Allgemeine Statistiken - DISt",
     "logs": {
       "frigate": "Frigate Protokolle – Frigate",
-      "go2rtc": "Go2RTC Protokolle - Frigate",
-      "nginx": "Nginx Protokolle - Frigate"
+      "go2rtc": "Go2RTC Protokolle - DISt",
+      "nginx": "Nginx Protokolle - DISt"
     },
-    "enrichments": "Erweiterte Statistiken - Frigate"
+    "enrichments": "Erweiterte Statistiken - DISt"
   },
   "title": "System",
   "logs": {

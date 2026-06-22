@@ -1,4 +1,4 @@
-{
+﻿{
   "ptz": {
     "zoom": {
       "in": {
@@ -42,8 +42,8 @@
       }
     }
   },
-  "documentTitle": "Directe - Frigate",
-  "documentTitle.withCamera": "{{camera}} - Directe - Frigate",
+  "documentTitle": "Directe - DISt",
+  "documentTitle.withCamera": "{{camera}} - Directe - DISt",
   "lowBandwidthMode": "Mode de baix ample de banda",
   "twoWayTalk": {
     "enable": "Activa la comunicació bidireccional",

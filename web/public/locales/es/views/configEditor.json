@@ -1,4 +1,4 @@
-{
+﻿{
   "configEditor": "Editor de Configuración",
   "copyConfig": "Copiar configuración",
   "saveAndRestart": "Guardar y reiniciar",
@@ -11,7 +11,7 @@
       "savingError": "Error al guardar la configuración"
     }
   },
-  "documentTitle": "Editor de Configuración - Frigate",
+  "documentTitle": "Editor de Configuración - DISt",
   "confirm": "¿Salir sin guardar?",
   "safeConfigEditor": "Editor de Configuración (Modo Seguro)",
   "safeModeDescription": "Frigate esta en modo seguro debido a un error en la validación de la configuración."

@@ -1,6 +1,6 @@
-{
-  "documentTitle": "Naživo - Frigate",
-  "documentTitle.withCamera": "{{camera}} - Naživo - Frigate",
+﻿{
+  "documentTitle": "Naživo - DISt",
+  "documentTitle.withCamera": "{{camera}} - Naživo - DISt",
   "lowBandwidthMode": "Režim nízkej šírky pásma",
   "twoWayTalk": {
     "enable": "Povoliť obojsmernú komunikáciu",

@@ -1,4 +1,4 @@
-{
+﻿{
   "trackedObjectsCount_one": "{{count}} jälgitav objekt ",
   "trackedObjectsCount_other": "{{count}} jälgitavat objekti ",
   "fetchingTrackedObjectsFailed": "Viga jälgitavate objektide laadimisel: {{errorMessage}}",
@@ -46,7 +46,7 @@
       "next": "Järgmine slaid"
     }
   },
-  "documentTitle": "Avasta - Frigate",
+  "documentTitle": "Avasta - DISt",
   "generativeAI": "Generatiivne tehisaru",
   "exploreMore": "Avasta rohkem {{label}}-tüüpi objekte",
   "exploreIsUnavailable": {

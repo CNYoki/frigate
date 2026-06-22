@@ -1,4 +1,4 @@
-{
+﻿{
   "detections": "検出",
   "motion": {
     "label": "モーション",
@@ -23,9 +23,9 @@
     "aria": "イベントを選択",
     "noFoundForTimePeriod": "この期間のイベントは見つかりません。"
   },
-  "documentTitle": "レビュー - Frigate",
+  "documentTitle": "レビュー - DISt",
   "recordings": {
-    "documentTitle": "録画 - Frigate"
+    "documentTitle": "録画 - DISt"
   },
   "calendarFilter": {
     "last24Hours": "直近24時間"

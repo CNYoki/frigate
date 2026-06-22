@@ -1,4 +1,4 @@
-{
+﻿{
   "renameFace": {
     "title": "Arc átnevezése",
     "desc": "Adjon meg egy új nevet neki: {{name}}"
@@ -89,7 +89,7 @@
   },
   "readTheDocs": "Olvassa el a dokumentációt",
   "nofaces": "Nincs elérhető arc",
-  "documentTitle": "Arc könyvtár - Frigate",
+  "documentTitle": "Arc könyvtár - DISt",
   "train": {
     "title": "Friss felismerések",
     "empty": "Nincs friss arcfelismerés",
