@@ -25,6 +25,13 @@ runs:
         remove-haskell: 'true'
         remove-codeql: 'true'
         build-mount-path: '/var/lib/docker'
+    - name: Redirect Docker home cache to mounted volume
+      run: |
+        sudo mkdir -p /var/lib/docker/docker-home-cache
+        sudo chmod 777 /var/lib/docker/docker-home-cache
+        rm -rf /home/runner/.docker
+        ln -s /var/lib/docker/docker-home-cache /home/runner/.docker
+      shell: bash
     - name: Start docker
       run: sudo systemctl start docker
       shell: bash
