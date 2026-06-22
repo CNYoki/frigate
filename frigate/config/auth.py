@@ -3,8 +3,71 @@ from typing import Dict, List, Optional
 from pydantic import Field, field_validator, model_validator
 
 from .base import FrigateBaseModel
+from .env import EnvString, FRIGATE_ENV_VARS
 
-__all__ = ["AuthConfig"]
+__all__ = ["AuthConfig", "OIDCConfig"]
+
+
+class OIDCConfig(FrigateBaseModel):
+    enabled: bool = Field(default=False, title="Enable OIDC/OAuth2 login")
+    discovery_url: EnvString = Field(
+        default="",
+        title="OIDC discovery document URL (/.well-known/openid-configuration)",
+    )
+    client_id: EnvString = Field(default="", title="OAuth2 client ID")
+    client_secret: EnvString = Field(default="", title="OAuth2 client secret")
+    scopes: List[str] = Field(
+        default=["openid", "email", "profile"],
+        title="OIDC scopes to request",
+    )
+    auto_create_users: bool = Field(
+        default=True,
+        title="Automatically register new users on first OIDC login",
+    )
+    default_role: str = Field(
+        default="viewer",
+        title="Role assigned to auto-created OIDC users",
+    )
+    redirect_uri: str = Field(
+        default="",
+        title="Override OAuth2 redirect URI (auto-detected from request if empty)",
+    )
+
+    @model_validator(mode="after")
+    def populate_from_env(self) -> "OIDCConfig":
+        """Populate unconfigured fields from FRIGATE_OIDC_* environment variables.
+
+        Allows full Docker-env-only configuration without touching the YAML file.
+        YAML config takes precedence when set; env vars fill in the rest.
+        """
+        if not self.enabled:
+            val = FRIGATE_ENV_VARS.get("FRIGATE_OIDC_ENABLED", "").lower()
+            if val in ("1", "true", "yes"):
+                self.enabled = True
+        if not self.discovery_url:
+            self.discovery_url = FRIGATE_ENV_VARS.get(
+                "FRIGATE_OIDC_DISCOVERY_URL", ""
+            )
+        if not self.client_id:
+            self.client_id = FRIGATE_ENV_VARS.get("FRIGATE_OIDC_CLIENT_ID", "")
+        if not self.client_secret:
+            self.client_secret = FRIGATE_ENV_VARS.get(
+                "FRIGATE_OIDC_CLIENT_SECRET", ""
+            )
+        if not self.redirect_uri:
+            self.redirect_uri = FRIGATE_ENV_VARS.get(
+                "FRIGATE_OIDC_REDIRECT_URI", ""
+            )
+        if FRIGATE_ENV_VARS.get("FRIGATE_OIDC_AUTO_CREATE_USERS", "").lower() in (
+            "0",
+            "false",
+            "no",
+        ):
+            self.auto_create_users = False
+        env_role = FRIGATE_ENV_VARS.get("FRIGATE_OIDC_DEFAULT_ROLE", "")
+        if env_role:
+            self.default_role = env_role
+        return self
 
 
 class AuthConfig(FrigateBaseModel):
@@ -37,6 +100,10 @@ class AuthConfig(FrigateBaseModel):
     roles: Dict[str, List[str]] = Field(
         default_factory=dict,
         title="Role to camera mappings. Empty list grants access to all cameras.",
+    )
+    oidc: OIDCConfig = Field(
+        default_factory=OIDCConfig,
+        title="OIDC/OAuth2 login configuration",
     )
     admin_first_time_login: Optional[bool] = Field(
         default=False,

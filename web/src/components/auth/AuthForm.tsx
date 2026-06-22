@@ -39,6 +39,7 @@ export function UserAuthForm({ className, ...props }: UserAuthFormProps) {
   const fetcher = (path: string) => axios.get(path).then((res) => res.data);
   const { data } = useSWR("/auth/first_time_login", fetcher);
   const showFirstTimeLink = data?.admin_first_time_login === true;
+  const oidcEnabled = data?.oidc_enabled === true;
 
   const formSchema = z.object({
     user: z.string().min(1, t("form.errors.usernameRequired")),
@@ -146,6 +147,27 @@ export function UserAuthForm({ className, ...props }: UserAuthFormProps) {
           </div>
         </form>
       </Form>
+      {oidcEnabled && (
+        <div className="relative my-2 flex items-center">
+          <div className="flex-grow border-t border-secondary" />
+          <span className="mx-3 flex-shrink text-xs text-secondary-foreground">
+            {t("form.or")}
+          </span>
+          <div className="flex-grow border-t border-secondary" />
+        </div>
+      )}
+      {oidcEnabled && (
+        <Button
+          variant="outline"
+          className="w-full"
+          aria-label={t("form.ssoLogin")}
+          onClick={() => {
+            window.location.href = "/login/oidc";
+          }}
+        >
+          {t("form.ssoLogin")}
+        </Button>
+      )}
       {showFirstTimeLink && (
         <Card className="mt-4 p-4 text-center text-sm">
           <CardContent className="p-2">

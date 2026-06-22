@@ -54,7 +54,10 @@ def require_admin_by_default():
         # Public auth endpoints (allow_public)
         "/auth",
         "/auth/first_time_login",
+        "/auth/oidc/callback",
+        "/auth/oidc/config",
         "/login",
+        "/login/oidc",
         "/logout",
         # Authenticated user endpoints (allow_any_authenticated)
         "/profile",
@@ -200,7 +203,8 @@ def first_time_login(request: Request):
     return JSONResponse(
         content={
             "admin_first_time_login": auth_config.admin_first_time_login
-            or auth_config.reset_admin_password
+            or auth_config.reset_admin_password,
+            "oidc_enabled": auth_config.oidc.enabled,
         }
     )
 

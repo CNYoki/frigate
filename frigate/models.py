@@ -135,6 +135,8 @@ class User(Model):
     password_hash = CharField(null=False, max_length=120)
     password_changed_at = DateTimeField(null=True)
     notification_tokens = JSONField()
+    oauth_provider = CharField(null=True, max_length=20)
+    oauth_sub = CharField(null=True, max_length=255)
 
     @classmethod
     def get_allowed_cameras(
